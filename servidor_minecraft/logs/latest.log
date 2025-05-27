@@ -3248,3 +3248,26 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [21:14:32] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [21:14:32] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [21:14:32] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:15:20] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[21:15:20] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[21:15:44] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
+[21:19:01] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:20:45] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[21:20:45] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[21:20:45] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[21:20:45] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[21:20:45] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[21:20:45] [Worker-Main-1/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[21:20:52] [pool-8-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom]] from pos class_2338{x=-1157, y=73, z=-171}
+[21:21:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8050ms or 161 ticks behind
+[21:21:01] [Server thread/WARN]: vichoclo777 moved too quickly! -0.8241766434907731,-5.0,8.861604392190713
+[21:21:05] [Server thread/WARN]: vichoclo777 moved too quickly! 5.613011725661636,-2.0,8.124624699344622
+[21:21:08] [Server thread/WARN]: vichoclo777 moved too quickly! 5.368842910855392,-0.9375,8.502881244101161
+[21:21:12] [Worker-Main-1/WARN]: Couldn't find template pool reference: ctov:village/waystone/sand
+[21:21:12] [Worker-Main-1/WARN]: Couldn't find template pool reference: ctov:village/waystone/sand
+[21:21:15] [Worker-Main-1/WARN]: Couldn't find template pool reference: ctov:village/bounty/desert
+[21:21:15] [Worker-Main-1/WARN]: Couldn't find template pool reference: ctov:village/waystone/sand
+[21:21:15] [Worker-Main-1/WARN]: Couldn't find template pool reference: ctov:village/vampirism/totem
+[21:21:29] [Server thread/WARN]: vichoclo777 moved too quickly! 8.258952754485108,-1.0,5.7550183330813525
+[21:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15367ms or 307 ticks behind
+[21:24:13] [Server thread/INFO]: vichoclo777 has made the advancement [Diamonds!]
