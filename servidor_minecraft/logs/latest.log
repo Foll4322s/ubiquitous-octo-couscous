@@ -3271,3 +3271,13 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [21:21:29] [Server thread/WARN]: vichoclo777 moved too quickly! 8.258952754485108,-1.0,5.7550183330813525
 [21:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15367ms or 307 ticks behind
 [21:24:13] [Server thread/INFO]: vichoclo777 has made the advancement [Diamonds!]
+[21:29:25] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
+[21:30:12] [Server thread/INFO]: Luengou teleported to -1188.0 72.0 -462.0 minecraft:overworld
+[21:30:17] [Server thread/INFO]: vichoclo777 was blown up by Creeper
+[21:30:26] [Server thread/INFO]: vichoclo777 teleported to -869.5 75.0 -632.5 minecraft:overworld
+[21:30:54] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
+[21:30:54] [Server thread/INFO]: vichoclo777 teleported to -1213.5 -26.0 -263.5 minecraft:overworld
+[21:31:02] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
+[21:32:29] [Server thread/INFO]: vichoclo777 tried to swim in lava
+[21:32:41] [Server thread/INFO]: vichoclo777 teleported to -1233.5 -32.0 -242.5 minecraft:overworld
+[21:34:27] [Server thread/INFO]: Luengou teleported to -1185.0 72.0 -459.0 minecraft:overworld
