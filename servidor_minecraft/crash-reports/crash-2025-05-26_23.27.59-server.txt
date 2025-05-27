@@ -1,0 +1,370 @@
+---- Minecraft Crash Report ----
+// Ooh. Shiny.
+
+Time: 2025-05-26 23:27:59
+Description: Exception in server tick loop
+
+java.net.UnknownHostException: check-hull.gl.joinmc.link: No address associated with hostname
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:52)
+	at java.base/java.net.InetAddress$PlatformResolver.lookupByName(InetAddress.java:1211)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1828)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:1139)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1818)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1688)
+	at java.base/java.net.InetAddress.getByName(InetAddress.java:1568)
+	at knot//net.minecraft.class_3176.method_3823(class_3176.java:143)
+	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:664)
+	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Linux (amd64) version 6.8.0-1027-azure
+	Java Version: 21.0.7, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 630143064 bytes (600 MiB) / 2147483648 bytes (2048 MiB) up to 7516192768 bytes (7168 MiB)
+	CPUs: 2
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 1
+	Number of logical CPUs: 2
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MiB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MiB): 3969.34
+	Virtual memory used (MiB): 4115.13
+	Swap memory total (MiB): 0.00
+	Swap memory used (MiB): 0.00
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 23932.25, total: 45046.83
+	Space in storage for workdir (MiB): available: 18284.32, total: 32077.81
+	JVM Flags: 2 total; -Xms2G -Xmx7G
+	Fabric Mods: 
+		additionalstructures: Additional Structures 5.0.1-fabric
+		advancednetherite: Advanced Netherite 2.2.0-1.21.1
+		alternate-current: Alternate Current 1.9.0
+		amendments: Amendments 1.21-1.2.19
+		animal_armor_trims: Animal Armor Trims 2.0.0
+		another_furniture: Another Furniture 4.0.0
+		appleskin: AppleSkin 3.0.6+mc1.21
+		architectury: Architectury 13.0.8
+		armadillo_scute_armor: ArmadilloScuteArmor 1.0-1.21-Fabric
+		automessage: Auto Message 2.3.0
+		balm-fabric: Balm 21.0.20
+			kuma_api: KumaAPI 21.0.5-SNAPSHOT
+		barteringstation: Bartering Station 21.1.0
+		betteradvancements: Better Advancements 0.4.3.21
+		betterarcheology: Better Archeology 1.2.0-1.21
+		betterdeserttemples: YUNG's Better Desert Temples 1.21.1-Fabric-4.1.2
+		betterdungeons: YUNG's Better Dungeons 1.21.1-Fabric-5.1.3
+		betterendisland: YUNG's Better End Island 1.21.1-Fabric-3.1.1
+		betterfortresses: YUNG's Better Nether Fortresses 1.21.1-Fabric-3.1.3
+		betterfpsdist: Better FPS distance Mod 1.21-6.0
+		betterjungletemples: YUNG's Better Jungle Temples 1.21.1-Fabric-3.1.2
+		bettermineshafts: YUNG's Better Mineshafts 1.21.1-Fabric-5.1.1
+		betteroceanmonuments: YUNG's Better Ocean Monuments 1.21.1-Fabric-4.1.2
+			org_reflections_reflections: reflections 0.10.2
+		betterstats: Better Statistics Screen 3.13.3+fabric-1.21
+		betterstrongholds: YUNG's Better Strongholds 1.21.1-Fabric-5.1.2
+		betterwitchhuts: YUNG's Better Witch Huts 1.21.1-Fabric-4.1.1
+		biomesoplenty: BiomesOPlenty 21.1.0.7
+		boatbreakfix: Boat Break Fix 1.0.2
+		bookshelf: Bookshelf 21.1.13
+		cardinal-components: Cardinal Components API 6.1.1
+			cardinal-components-base: Cardinal Components API (base) 6.1.1
+			cardinal-components-block: Cardinal Components API (blocks) 6.1.1
+			cardinal-components-chunk: Cardinal Components API (chunks) 6.1.1
+			cardinal-components-entity: Cardinal Components API (entities) 6.1.1
+			cardinal-components-item: Cardinal Components API (items) 6.1.1
+			cardinal-components-level: Cardinal Components API (world saves) 6.1.1
+			cardinal-components-scoreboard: Cardinal Components API (scoreboard) 6.1.1
+			cardinal-components-world: Cardinal Components API (worlds) 6.1.1
+		carryon: Carry On 2.2.2
+		catalogue: Catalogue 1.11.0
+		charmofundying: Charm of Undying 9.1.0+1.21.1
+			spectrelib: SpectreLib 0.17.2+1.21
+		chunkloaders: Chunk Loaders 1.2.8
+		chunksending: Chunksending Mod 1.21-2.8
+		clickadv: Clickable Advancements Mod 1.21-3.8
+		cloth-config: Cloth Config v15 15.0.140
+			cloth-basic-math: cloth-basic-math 0.6.1
+		clumps: Clumps 19.0.0.1
+		collective: Collective 7.87
+		comforts: Comforts 9.0.3+1.21.1
+		connectedglass: Connected Glass 1.1.12
+		crabclaws: Crab Claws 1.2.0
+		crawl: Crawl 0.13.0
+		creativecore: CreativeCore 2.12.22
+			net_neoforged_bus: bus 7.2.0
+		creeperoverhaul: Creeper Overhaul 4.0.5
+			com_teamresourceful_resourceful-cosmetics-4j: resourceful-cosmetics-4j 1.0.3
+		ctov: ChoiceTheorem's Overhauled Village 3.5.4
+		cupboard: cupboard 1.21-2.7
+		danger_close: Danger Close 3.1.1
+		deeperdarker: Deeper and Darker 1.3.2.1
+			customportalapi: Custom Portal Api 0.0.1-beta66-1.21
+		defaultoptions: Default Options 21.1.1
+		despawningeggshatch: Despawning Eggs Hatch 4.4
+		deuf_refabricated: DEUF Refabricated 1.1.0
+		diagonalfences: Diagonal Fences 21.1.1
+		diagonalwalls: Diagonal Walls 21.1.2
+			diagonalblocks: Diagonal Blocks 21.1.2
+		diagonalwindows: Diagonal Windows 21.1.1
+		disenchanting_table: Dis-Enchanting Table 3.1.0
+		doubledoors: Double Doors 5.9
+		dummmmmmy: MmmMmmMmmMmm 1.21-2.0.6
+		easyanvils: Easy Anvils 21.1.0
+		easymagic: Easy Magic 21.1.0
+		easyshulkerboxes: Easy Shulker Boxes 21.1.0
+			iteminteractions: Item Interactions 21.1.0
+		eat_an_omelette: Eat an Omelette 1.5.0
+		elementalmaces: Elemental Maces 1.0.0
+		elevatorid: ElevatorMod 1.21-1.11.1
+		elytraslot: Elytra Slot 9.0.1+1.21.1
+		emojiful: Emojiful 5.1.5
+			com_esotericsoftware_yamlbeans_yamlbeans: yamlbeans 1.17
+		ender_pack: Ender Pack 2.0.3
+		entityculling: EntityCulling 1.7.1
+		epicpowerbracelets: Epic Power Bracelets 1.1.1
+		explorerscompass: Explorer's Compass 1.21.1-2.2.5-fabric
+		explorify: Explorify 1.6.2
+		fabric-api: Fabric API 0.109.0+1.21.1
+			fabric-api-base: Fabric API Base 0.4.42+6573ed8c19
+			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 1.6.70+b559734419
+			fabric-biome-api-v1: Fabric Biome API (v1) 13.0.30+be1ed2d719
+			fabric-block-api-v1: Fabric Block API (v1) 1.0.22+0af3f5a719
+			fabric-block-view-api-v2: Fabric BlockView API (v2) 1.0.10+6573ed8c19
+			fabric-command-api-v1: Fabric Command API (v1) 1.2.49+f71b366f19
+			fabric-command-api-v2: Fabric Command API (v2) 2.2.28+6ced4dd919
+			fabric-commands-v0: Fabric Commands (v0) 0.2.66+df3654b319
+			fabric-content-registries-v0: Fabric Content Registries (v0) 8.0.18+b559734419
+			fabric-convention-tags-v1: Fabric Convention Tags 2.1.2+7f945d5b19
+			fabric-convention-tags-v2: Fabric Convention Tags (v2) 2.9.2+e60e56d419
+			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.2.29+0af3f5a719
+			fabric-data-attachment-api-v1: Fabric Data Attachment API (v1) 1.4.0+da19b51a19
+			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 20.2.23+16c4ae2519
+			fabric-dimensions-v1: Fabric Dimensions API (v1) 4.0.0+6fc22b9919
+			fabric-entity-events-v1: Fabric Entity Events (v1) 1.7.0+2122d82819
+			fabric-events-interaction-v0: Fabric Events Interaction (v0) 0.7.13+ba9dae0619
+			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 1.0.53+6ced4dd919
+			fabric-item-api-v1: Fabric Item API (v1) 11.1.1+d5debaed19
+			fabric-item-group-api-v1: Fabric Item Group API (v1) 4.1.6+6823f7cd19
+			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 2.5.0+01d9a51c19
+			fabric-loot-api-v2: Fabric Loot API (v2) 3.0.15+3f89f5a519
+			fabric-loot-api-v3: Fabric Loot API (v3) 1.0.3+3f89f5a519
+			fabric-message-api-v1: Fabric Message API (v1) 6.0.13+6573ed8c19
+			fabric-networking-api-v1: Fabric Networking API (v1) 4.3.0+c7469b2119
+			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 15.2.1+40875a9319
+			fabric-particles-v1: Fabric Particles (v1) 4.0.2+6573ed8c19
+			fabric-recipe-api-v1: Fabric Recipe API (v1) 5.0.13+6508971219
+			fabric-registry-sync-v0: Fabric Registry Sync (v0) 5.1.3+60c3209b19
+			fabric-rendering-data-attachment-v1: Fabric Rendering Data Attachment (v1) 0.3.48+73761d2e19
+			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 3.1.6+1daea21519
+			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 4.3.0+8dc279b119
+			fabric-resource-loader-v0: Fabric Resource Loader (v0) 1.3.1+5b5275af19
+			fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.3.87+b559734419
+			fabric-transfer-api-v1: Fabric Transfer API (v1) 5.4.2+95bead5f19
+			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 6.1.0+1daea21519
+		fabric-language-kotlin: Fabric Language Kotlin 1.12.3+kotlin.2.0.21
+			org_jetbrains_kotlin_kotlin-reflect: kotlin-reflect 2.0.21
+			org_jetbrains_kotlin_kotlin-stdlib: kotlin-stdlib 2.0.21
+			org_jetbrains_kotlin_kotlin-stdlib-jdk7: kotlin-stdlib-jdk7 2.0.21
+			org_jetbrains_kotlin_kotlin-stdlib-jdk8: kotlin-stdlib-jdk8 2.0.21
+			org_jetbrains_kotlinx_atomicfu-jvm: atomicfu-jvm 0.25.0
+			org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm: kotlinx-coroutines-core-jvm 1.9.0
+			org_jetbrains_kotlinx_kotlinx-coroutines-jdk8: kotlinx-coroutines-jdk8 1.9.0
+			org_jetbrains_kotlinx_kotlinx-datetime-jvm: kotlinx-datetime-jvm 0.6.1
+			org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm: kotlinx-io-bytestring-jvm 0.5.4
+			org_jetbrains_kotlinx_kotlinx-io-core-jvm: kotlinx-io-core-jvm 0.5.4
+			org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm: kotlinx-serialization-cbor-jvm 1.7.3
+			org_jetbrains_kotlinx_kotlinx-serialization-core-jvm: kotlinx-serialization-core-jvm 1.7.3
+			org_jetbrains_kotlinx_kotlinx-serialization-json-jvm: kotlinx-serialization-json-jvm 1.7.3
+		fabricloader: Fabric Loader 0.16.9
+			mixinextras: MixinExtras 0.4.1
+		fabricshieldlib: Fabric Shield Lib 1.7.2-1.21.1
+			mm: Manningham Mills 2.3
+		fallingtree: FallingTree 1.21.1.2
+		fancymenu: FancyMenu 3.3.2
+			com_github_keksuccino_japng: japng 0.5.3
+			com_github_rtyley_animated-gif-lib-for-java: animated-gif-lib-for-java animated-gif-lib-1.7
+		fastasyncworldsave: fastasyncworldsave Mod 1.21-2.0
+		ferritecore: FerriteCore 7.0.2-hotfix
+		forgeconfigapiport: Forge Config API Port 21.1.2
+			com_electronwill_night-config_core: core 3.8.0
+			com_electronwill_night-config_toml: toml 3.8.0
+		framework: Framework 0.9.4
+		fusion: Fusion 1.1.1
+		geckolib: GeckoLib 4 4.7
+		glitchcore: GlitchCore 2.1.0.0
+		golden_foods: Golden Foods 2.4.0
+		gpumemleakfix: Gpu memory leak fix mod 1.21-1.8
+		handcrafted: Handcrafted 4.0.2
+		iceberg: Iceberg 1.2.7
+		illagerinvasion: Illager Invasion 21.1.2
+			extensibleenums: Extensible Enums 21.1.1
+		jade: Jade 15.8.3+fabric
+		jamlib: JamLib 1.2.2+1.21.1
+			blue_endless_jankson: jankson 1.2.3
+		java: OpenJDK 64-Bit Server VM 21
+		jei: Just Enough Items 19.21.0.247
+		jeresources: Just Enough Resources 1.6.0.11
+		journeymap: Journeymap 1.21.1-6.0.0-beta.29
+			ar_com_hjg_pngj: pngj 2.1.0
+			commonnetworking: Common Network 1.0.16-1.21.1
+			journeymap-api-fabric: JourneyMap API 2.0.0-1.21.1-SNAPSHOT
+		jumpoverfences: Jump Over Fences 1.6.0
+		justenoughprofessions: Just Enough Professions (JEP) 4.0.3
+		justzoom: Just Zoom 2.0.0
+		kiwi: Kiwi Library 15.1.1+fabric
+		kleeslabs: KleeSlabs 21.1.1
+		konkrete: Konkrete 1.9.9
+		krypton: Krypton 0.2.8
+			com_velocitypowered_velocity-native: velocity-native 3.3.0-SNAPSHOT
+		lapisreserve: Lapis Reserve 1.0.11
+		lithium: Lithium 0.14.2-snapshot+mc1.21.1-build.90
+		lithostitched: Lithostitched 1.3.5
+		loadingbackgrounds: Loading Backgrounds 1.6.0
+		lootr: Lootr 1.21-1.10.34.86
+		macawsbridgesbop: Macaw's Bridges - BOP 1.21-1.0
+		macawsroofsbop: Macaw's Roofs - BOP 1.21-1.0
+		mace3d: Awesome 3D Mace 1.1.0
+		mavapi: More Axolotl Variants API 1.2.1
+		mavm: More Axolotl Variants Mod 1.3.0
+		mcwbridges: Macaw's Bridges 3.0.0
+		mcwdoors: Macaw's Doors 1.1.1
+		mcwfences: Macaw's Fences and Walls 1.1.2
+		mcwfurnitures: Macaw's Furniture 3.3.0
+		mcwfurnituresbop: Macaw's Furnitures - BOP 1.21.1-1.1
+		mcwlights: Macaw's Lights and Lamps 1.1.1
+		mcwpaintings: Macaw's Paintings 1.0.5
+		mcwpaths: Macaw's Paths and Pavings 1.0.5
+		mcwroofs: Macaw's Roofs 2.3.1
+		mcwtrpdoors: Macaw's Trapdoors 1.1.3
+		mcwwindows: Macaw's Windows 2.3.2
+		medieval_buildings: Medieval Buildings 1.0.2
+		medievalend: Medieval Buildings [The End Edition] 1.0.2
+		melody: Melody 1.0.10
+		memorysettings: Memorysettings Mod 1.21-5.5
+		midnightlib: MidnightLib 1.6.3
+		minecraft: Minecraft 1.21.1
+		mob_drops_recipes_end: Mob Drops Recipes End 2.1.0
+		mob_drops_recipes_nether: Mob Drops Recipes Nether 2.1.0
+		mob_drops_recipes_overworld: Mob Drops Recipes Overworld 2.1.0
+		modernfix: ModernFix 5.19.5+mc1.21.1
+		monolib: MonoLib 1.4.1
+		moonlight: Moonlight Lib 1.21-2.17.5
+		more_beautiful_torches: More Beautiful Torches 3.0.0
+		more_bows_and_arrows: More Bows and Arrows 3.1.0
+		mr_dungeons_andtaverns: Dungeons and Taverns 1-v4.4.4
+		mvs: Moog's Voyager Structures 4.2.6-1.21-fabric
+		naturescompass: Nature's Compass 1.21.1-2.2.7-fabric
+		necronomicon: Necronomicon 1.6.0
+		netherportalfix: NetherPortalFix 21.1.1
+		new_shield_variants: New Shield Variants 2.0.0
+		new_slab_variants: New Slab Variants 3.0.1
+		nochatreports: No Chat Reports 1.21.1-v2.9.1
+		noisium: Noisium 2.3.0+mc1.21-1.21.1
+		notenoughanimations: NotEnoughAnimations 1.8.1
+		owo: oωo 0.12.15+1.21
+			io_wispforest_endec: endec 0.1.5
+			io_wispforest_endec_gson: gson 0.1.3
+			io_wispforest_endec_jankson: jankson 0.1.3
+			io_wispforest_endec_netty: netty 0.1.2
+		passiveshield: Passive Shield 3.6
+		permanentsponges: Permanent Sponges 21.1.0
+		pickaxetrims: Better Pickaxe Trims 1.0.0
+		pickupnotifier: Pick Up Notifier 21.1.0
+		polymer-bundled: Polymer 0.9.18+1.21.1
+			polymer-autohost: Polymer (Auto Host) 0.9.18+1.21.1
+				io_netty_netty-codec-http: netty-codec-http 4.1.82
+			polymer-blocks: Polymer (Textured Blocks) 0.9.18+1.21.1
+			polymer-common: Polymer (Common) 0.9.18+1.21.1
+				packet_tweaker: Packet Tweaker 0.5.5+1.21
+			polymer-core: Polymer (Core) 0.9.18+1.21.1
+				polymer-networking: Polymer (Networking) 0.9.18+1.21.1
+				polymer-registry-sync-manipulator: Polymer (Registry Sync Manipulator) 0.9.18+1.21.1
+			polymer-resource-pack: Polymer (Resource Pack) 0.9.18+1.21.1
+			polymer-virtual-entity: Polymer (Virtual Entity) 0.9.18+1.21.1
+		polymorph: Polymorph 1.0.6+1.21.1
+		prickle: PrickleMC 21.1.6
+		puzzleslib: Puzzles Lib 21.1.22
+		quartzelv: Quartz Elevator 2.3.1+1.21.1
+		realisticbees: Realistic Bees 4.0
+		refurbished_furniture: MrCrayfish's Furniture Mod: Refurbished 1.0.8
+		resourcefulconfig: Resourcefulconfig 3.0.4
+		resourcefullib: Resourceful Lib 3.0.11
+			com_teamresourceful_bytecodecs: bytecodecs 1.1.2
+			com_teamresourceful_yabn: yabn 1.0.3
+		rightclickharvest: Right Click Harvest 4.4.3+1.21.1
+		sereneseasons: SereneSeasons 10.1.0.1
+			net_jodah_typetools: typetools 0.6.3
+		shulkerbox: Advanced Shulkerboxes 1.21.1-2.0.5
+		sit: Sit 1.21-28
+		skinlayers3d: 3d-Skin-Layers 1.7.2
+		smallships: Small Ships 2.0.0-b2.1
+		smoothchunk: Smooth chunk save Mod 1.21-3.6
+		snowballsfreezemobs: Snowballs Freeze Mobs 3.7
+		snowrealmagic: Snow! Real Magic! 11.0.7+fabric
+		sound_physics_remastered: Sound Physics Remastered 1.21.1-1.4.6
+		spark: spark 1.10.109
+			fabric-permissions-api-v0: fabric-permissions-api 0.3.1
+		spyglass_improvements: Spyglass Improvements 1.5.7
+		stackrefill: Stack Refill 4.5
+		startinv: Start Invulnerability mod 1.0.0
+		stoneworks: Stoneworks 21.1.0
+		structureessentials: Structure Essentials Mod 1.21-3.4
+		supermartijn642configlib: SuperMartijn642's Config Lib 1.1.8
+		supermartijn642corelib: SuperMartijn642's Core Lib 1.1.17+c
+		supplementaries: Supplementaries 1.21-3.0.23-beta
+			mixinsquared: MixinSquared 0.1.1
+		tcdcommons: TCD Commons API 3.12.4+fabric-1.21
+		terrablender: TerraBlender 4.1.0.5
+		time_on_display: Time On Display 2.0.0
+		torchmaster: Torchmaster 21.1.5-beta
+		tradingpost: Trading Post 21.1.0
+		trashslot: TrashSlot 21.1.4
+		travelersbackpack: Traveler's Backpack 10.1.3
+		trimeffects: TrimsEffects 1.3.5
+		trinkets: Trinkets 3.10.0
+		universal-graves: Universal Graves 3.4.4+1.21
+			common-protection-api: Common Protection API 1.0.0
+			placeholder-api: Placeholder API 2.4.1+1.21
+			predicate-api: Predicate API 0.5.1+1.21
+			server_translations_api: Server Translations API 2.3.1+1.21-pre2
+			sgui: sgui 1.6.0+1.21
+		universalbonemeal: Universal Bone Meal 21.1.0
+		veinmining: Vein Mining 5.0.0-beta+1.21
+		villagernames: Villager Names 8.1
+		visualworkbench: Visual Workbench 21.1.0
+		waddles: Waddles 0.11.1
+		waystones: Waystones 21.1.5
+		weaponmaster_ydm: YDM's Weapon Master 4.2.3
+		wider_ender_chests: Wider Ender Chests 1.0.3
+		yeetusexperimentus: Yeetus Experimentus 87.0.0
+		yungsapi: YUNG's API 1.21.1-Fabric-5.1.3
+			org_javassist_javassist: javassist 3.29.2-GA
+		yungsbridges: YUNG's Bridges 1.21.1-Fabric-5.1.1
+		yungsextras: YUNG's Extras 1.21.1-Fabric-5.1.1
+	Server Running: true
+	Active Data Packs: vanilla, fabric, additionalstructures, advancednetherite, amendments, animal_armor_trims (incompatible), another_furniture, armadillo_scute_armor, balm-fabric (incompatible), barteringstation (incompatible), betterarcheology, betterdeserttemples (incompatible), betterdungeons (incompatible), betterendisland (incompatible), betterfortresses (incompatible), betterjungletemples (incompatible), bettermineshafts (incompatible), betteroceanmonuments (incompatible), betterstrongholds (incompatible), betterwitchhuts (incompatible), biomesoplenty (incompatible), bookshelf (incompatible), carryon (incompatible), charmofundying (incompatible), chunkloaders (incompatible), collective, comforts (incompatible), connectedglass (incompatible), creeperoverhaul, ctov, danger_close (incompatible), deeperdarker (incompatible), diagonalblocks (incompatible), disenchanting_table (incompatible), dummmmmmy, easyanvils (incompatible), easymagic (incompatible), easyshulkerboxes (incompatible), eat_an_omelette (incompatible), elementalmaces (incompatible), elevatorid, elytraslot (incompatible), emojiful (incompatible), ender_pack (incompatible), epicpowerbracelets (incompatible), explorerscompass, explorify, fabric-convention-tags-v2, fabricshieldlib, golden_foods (incompatible), handcrafted, illagerinvasion (incompatible), kleeslabs (incompatible), lithostitched, lootr, macawsbridgesbop, macawsroofsbop, mcwbridges (incompatible), mcwdoors (incompatible), mcwfences (incompatible), mcwfurnitures (incompatible), mcwfurnituresbop, mcwlights (incompatible), mcwpaintings (incompatible), mcwpaths (incompatible), mcwroofs (incompatible), mcwtrpdoors (incompatible), mcwwindows (incompatible), medieval_buildings (incompatible), medievalend (incompatible), mob_drops_recipes_end (incompatible), mob_drops_recipes_nether (incompatible), mob_drops_recipes_overworld (incompatible), moonlight, more_beautiful_torches (incompatible), more_bows_and_arrows (incompatible), mr_dungeons_andtaverns, mvs (incompatible), naturescompass, new_shield_variants (incompatible), new_slab_variants (incompatible), permanentsponges (incompatible), pickaxetrims, quartzelv, refurbished_furniture (incompatible), rightclickharvest, sereneseasons (incompatible), server_translations_api, smallships, snowrealmagic (incompatible), spyglass_improvements, stoneworks (incompatible), supermartijn642corelib (incompatible), supplementaries, terrablender (incompatible), torchmaster (incompatible), tradingpost (incompatible), travelersbackpack, trinkets, universal-graves, universalbonemeal (incompatible), veinmining (incompatible), visualworkbench (incompatible), waddles (incompatible), waystones (incompatible), wider_ender_chests (incompatible), yungsapi (incompatible), yungsbridges (incompatible), yungsextras (incompatible), supplementaries:generated_pack
+	Available Data Packs: additionalstructures, advancednetherite, amendments, animal_armor_trims (incompatible), another_furniture, armadillo_scute_armor, balm-fabric (incompatible), barteringstation (incompatible), betterarcheology, betterdeserttemples (incompatible), betterdungeons (incompatible), betterendisland (incompatible), betterfortresses (incompatible), betterjungletemples (incompatible), bettermineshafts (incompatible), betteroceanmonuments (incompatible), betterstrongholds (incompatible), betterwitchhuts (incompatible), biomesoplenty (incompatible), bookshelf (incompatible), bundle, carryon (incompatible), charmofundying (incompatible), chunkloaders (incompatible), collective, comforts (incompatible), connectedglass (incompatible), creeperoverhaul, ctov, danger_close (incompatible), deeperdarker (incompatible), diagonalblocks (incompatible), disenchanting_table (incompatible), dummmmmmy, easyanvils (incompatible), easymagic (incompatible), easyshulkerboxes (incompatible), eat_an_omelette (incompatible), elementalmaces (incompatible), elevatorid, elytraslot (incompatible), emojiful (incompatible), ender_pack (incompatible), epicpowerbracelets (incompatible), explorerscompass, explorify, fabric, fabric-convention-tags-v2, fabricshieldlib, golden_foods (incompatible), handcrafted, illagerinvasion (incompatible), kleeslabs (incompatible), lithostitched, lootr, macawsbridgesbop, macawsroofsbop, mcwbridges (incompatible), mcwdoors (incompatible), mcwfences (incompatible), mcwfurnitures (incompatible), mcwfurnituresbop, mcwlights (incompatible), mcwpaintings (incompatible), mcwpaths (incompatible), mcwroofs (incompatible), mcwtrpdoors (incompatible), mcwwindows (incompatible), medieval_buildings (incompatible), medievalend (incompatible), mob_drops_recipes_end (incompatible), mob_drops_recipes_nether (incompatible), mob_drops_recipes_overworld (incompatible), moonlight, more_beautiful_torches (incompatible), more_bows_and_arrows (incompatible), mr_dungeons_andtaverns, mvs (incompatible), naturescompass, new_shield_variants (incompatible), new_slab_variants (incompatible), permanentsponges (incompatible), pickaxetrims, quartzelv, refurbished_furniture (incompatible), rightclickharvest, sereneseasons (incompatible), server_translations_api, smallships, snowrealmagic (incompatible), spyglass_improvements, stoneworks (incompatible), supermartijn642corelib (incompatible), supplementaries, supplementaries:generated_pack, terrablender (incompatible), torchmaster (incompatible), trade_rebalance, tradingpost (incompatible), travelersbackpack, trinkets, universal-graves, universalbonemeal (incompatible), vanilla, veinmining (incompatible), visualworkbench (incompatible), waddles (incompatible), waystones (incompatible), wider_ender_chests (incompatible), yungsapi (incompatible), yungsbridges (incompatible), yungsextras (incompatible)
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	World Seed: 5835142279043987641
+	Is Modded: Definitely; Server brand changed to 'fabric'
+	Type: Dedicated Server (map_server.txt)
