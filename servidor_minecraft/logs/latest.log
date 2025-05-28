@@ -4051,3 +4051,5 @@ Caused by: java.io.IOException: Invalid tag id: 20
 [02:10:41] [Worker-Main-5/WARN]: Couldn't find template pool reference: ctov:village/waystone/normal
 [02:10:41] [Worker-Main-5/WARN]: Couldn't find template pool reference: ctov:village/bounty/plains
 [02:39:10] [Server thread/INFO]: mi2mm was slain by Zombie
+[03:00:51] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=47, z=211}
+[03:11:57] [Server thread/INFO]: mi2mm has made the advancement [Fishy Business]

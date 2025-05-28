@@ -5119,6 +5119,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-05-28 03:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-28 03:12:28 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-05-28 02:36:25 +0000"
@@ -5215,6 +5227,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-05-28 03:06:47 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-28 02:11:36 +0000"
@@ -5236,6 +5254,12 @@
   "biomesoplenty:recipes/building_blocks/mahogany_planks": {
     "criteria": {
       "has_logs": "2025-05-28 01:24:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-05-28 03:06:47 +0000"
     },
     "done": true
   },
@@ -5290,6 +5314,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-28 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_jungle_log_slab": {
+    "criteria": {
+      "has_stripped_jungle_log": "2025-05-28 03:07:08 +0000"
     },
     "done": true
   },
@@ -5398,6 +5428,12 @@
   "another_furniture:recipes/mangrove_bench": {
     "criteria": {
       "has_slab": "2025-05-28 01:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-28 03:07:08 +0000"
     },
     "done": true
   },
@@ -5575,6 +5611,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-05-28 03:12:28 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-28 02:11:36 +0000"
@@ -5719,6 +5761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-28 03:12:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/mangrove_drawer": {
     "criteria": {
       "has_mangrove_drawer": "2025-05-28 01:28:30 +0000"
@@ -5755,6 +5803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-28 03:12:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-05-28 02:36:25 +0000"
@@ -5770,6 +5824,12 @@
   "mcwtrpdoors:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-28 02:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-28 03:07:08 +0000"
     },
     "done": true
   },
