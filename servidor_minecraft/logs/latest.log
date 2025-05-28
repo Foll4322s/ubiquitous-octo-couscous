@@ -3217,3 +3217,11 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [01:22:24] [Server thread/INFO]: mi2mm joined the game
 [01:22:25] [Server thread/INFO]: Receiving client config
 [01:22:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2470ms or 49 ticks behind
+[01:33:28] [User Authenticator #2/INFO]: UUID of player Luengou is 2e8e99dc-4bf6-47c0-a2be-173eef77eb25
+[01:33:33] [Server thread/INFO]: Luengou[/127.196.251.253:59167] logged in with entity id 2954 at (-1190.6910204893882, 72.0, -448.05028640113363)
+[01:33:33] [Server thread/INFO]: Sending server config values to client
+[01:33:33] [Server thread/INFO]: Loading config from file...
+[01:33:34] [Server thread/INFO]: Luengou joined the game
+[01:33:35] [Server thread/INFO]: Receiving client config
+[01:33:59] [Server thread/INFO]: <Luengou> hola
+[01:34:00] [Server thread/INFO]: <Luengou> mim
