@@ -4050,3 +4050,4 @@ Caused by: java.io.IOException: Invalid tag id: 20
 [02:10:41] [Worker-Main-5/WARN]: Couldn't find template pool reference: ctov:village/vampirism/totem
 [02:10:41] [Worker-Main-5/WARN]: Couldn't find template pool reference: ctov:village/waystone/normal
 [02:10:41] [Worker-Main-5/WARN]: Couldn't find template pool reference: ctov:village/bounty/plains
+[02:39:10] [Server thread/INFO]: mi2mm was slain by Zombie
