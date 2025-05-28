@@ -27,14 +27,19 @@
     "criteria": {
       "volcanic_plains": "2025-05-27 21:11:11 +0000",
       "woodland": "2025-05-27 00:54:04 +0000",
+      "shrubland": "2025-05-27 21:38:57 +0000",
       "old_growth_woodland": "2025-05-27 21:11:04 +0000",
+      "rocky_shrubland": "2025-05-27 21:48:06 +0000",
       "lush_desert": "2025-05-26 22:28:18 +0000",
       "redwood_forest": "2025-05-27 21:17:13 +0000",
+      "grassland": "2025-05-27 21:48:03 +0000",
       "prairie": "2025-05-27 21:16:42 +0000",
       "fungal_jungle": "2025-05-27 01:11:07 +0000",
+      "dune_beach": "2025-05-27 21:49:09 +0000",
       "glowing_grotto": "2025-05-26 22:55:20 +0000",
       "orchard": "2025-05-27 21:26:51 +0000",
       "floodplain": "2025-05-27 00:55:16 +0000",
+      "overgrown_greens": "2025-05-27 21:48:10 +0000",
       "mediterranean_forest": "2025-05-27 21:16:31 +0000",
       "rainforest": "2025-05-27 00:55:59 +0000",
       "jacaranda_glade": "2025-05-27 21:16:38 +0000",
@@ -429,6 +434,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-05-27 01:31:36 +0000",
+      "minecraft:dark_forest": "2025-05-27 21:47:30 +0000",
       "minecraft:forest": "2025-05-27 21:15:45 +0000",
       "minecraft:jungle": "2025-05-27 01:22:43 +0000",
       "minecraft:river": "2025-05-26 22:45:44 +0000",
@@ -1950,6 +1956,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-27 21:29:11 +0000",
+      "minecraft:spider": "2025-05-27 21:42:29 +0000",
       "minecraft:zombie": "2025-05-26 22:56:52 +0000"
     },
     "done": false
@@ -4444,9 +4451,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_or_granite_tiles_stonecutting": {
     "criteria": {
       "has_granite_or_granite_tiles": "2025-05-27 21:27:36 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:37:53 +0000"
     },
     "done": true
   },
@@ -4462,9 +4481,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-05-27 21:27:36 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_chair": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -4492,9 +4529,22 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-27 21:27:36 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blinds": {
+    "criteria": {
+      "has_wood": "2025-05-27 21:49:22 +0000",
+      "has_the_recipe": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -4534,9 +4584,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_wall_from_granite_or_mossy_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_mossy_granite_bricks": "2025-05-27 21:27:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -4564,6 +4632,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-27 21:41:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_or_granite_plates_stonecutting": {
     "criteria": {
       "has_granite_or_granite_plates": "2025-05-27 21:27:36 +0000"
@@ -4579,6 +4653,18 @@
   "stoneworks:recipes/building_blocks/granite_brick_wall_from_granite_or_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_granite_bricks": "2025-05-27 21:27:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -4600,6 +4686,13 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/parapets": {
+    "criteria": {
+      "has_wood": "2025-05-27 21:49:22 +0000",
+      "has_the_recipe": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-05-27 21:24:13 +0000"
@@ -4618,6 +4711,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-27 21:31:31 +0000"
@@ -4633,6 +4732,12 @@
   "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_or_cobbled_granite_stonecutting": {
     "criteria": {
       "has_granite_or_cobbled_granite": "2025-05-27 21:27:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -4675,6 +4780,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-27 21:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -4726,9 +4837,33 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-05-27 21:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -4744,15 +4879,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-27 21:50:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-27 21:24:13 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_shingle_slab_from_granite_or_granite_shingles_stonecutting": {
     "criteria": {
       "has_granite_or_granite_shingles": "2025-05-27 21:27:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -4792,6 +4963,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-27 21:24:13 +0000"
@@ -4801,6 +4984,12 @@
   "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_or_mossy_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_mossy_granite_bricks": "2025-05-27 21:27:36 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -4828,6 +5017,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
     "criteria": {
       "has_goldenrod": "2025-05-27 21:17:59 +0000"
@@ -4840,15 +5035,33 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-27 21:45:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-05-27 21:24:13 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_or_mossy_cobbled_granite_stonecutting": {
     "criteria": {
       "has_granite_or_mossy_cobbled_granite": "2025-05-27 21:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -4867,6 +5080,18 @@
   "mcwroofs:recipes/granite": {
     "criteria": {
       "has_planks": "2025-05-27 21:27:36 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -4894,6 +5119,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-05-27 21:17:58 +0000"
@@ -4915,6 +5158,18 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-27 21:31:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-27 21:50:22 +0000"
     },
     "done": true
   },
@@ -4948,9 +5203,63 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-27 21:41:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-27 21:24:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -4969,6 +5278,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-27 21:31:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -5002,9 +5317,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_slab_from_granite_or_mossy_cobbled_granite_stonecutting": {
     "criteria": {
       "has_granite_or_mossy_cobbled_granite": "2025-05-27 21:27:36 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_table": {
+    "criteria": {
+      "has_planks": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },
@@ -5014,15 +5341,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-27 21:27:36 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2025-05-27 21:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-27 21:31:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-05-27 21:49:22 +0000"
     },
     "done": true
   },

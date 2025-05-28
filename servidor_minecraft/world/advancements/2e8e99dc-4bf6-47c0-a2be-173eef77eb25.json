@@ -165,14 +165,19 @@
     "criteria": {
       "volcanic_plains": "2025-05-27 21:11:09 +0000",
       "woodland": "2025-05-26 23:44:10 +0000",
+      "shrubland": "2025-05-27 21:45:10 +0000",
       "old_growth_woodland": "2025-05-27 01:36:58 +0000",
+      "rocky_shrubland": "2025-05-27 21:48:03 +0000",
       "lush_desert": "2025-05-26 21:53:10 +0000",
       "redwood_forest": "2025-05-27 21:17:14 +0000",
       "scrubland": "2025-05-27 21:16:40 +0000",
+      "grassland": "2025-05-27 21:47:58 +0000",
       "prairie": "2025-05-27 21:16:22 +0000",
       "fungal_jungle": "2025-05-27 01:11:07 +0000",
+      "orchard": "2025-05-27 21:33:03 +0000",
       "floodplain": "2025-05-26 23:45:20 +0000",
       "lush_savanna": "2025-05-26 21:53:39 +0000",
+      "overgrown_greens": "2025-05-27 21:48:07 +0000",
       "mediterranean_forest": "2025-05-27 21:15:21 +0000",
       "rainforest": "2025-05-26 21:54:31 +0000",
       "jacaranda_glade": "2025-05-27 21:16:16 +0000",
@@ -183,6 +188,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-05-27 01:25:20 +0000",
+      "minecraft:dark_forest": "2025-05-27 21:47:24 +0000",
       "minecraft:forest": "2025-05-27 01:43:39 +0000",
       "minecraft:sparse_jungle": "2025-05-27 01:28:40 +0000",
       "minecraft:jungle": "2025-05-27 01:22:16 +0000",
@@ -5691,6 +5697,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-05-27 21:46:29 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/warped": {
     "criteria": {
       "has_the_recipe": "2025-05-27 21:17:01 +0000"
@@ -5740,6 +5752,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-05-27 21:46:29 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-27 21:17:01 +0000"
@@ -5761,6 +5779,12 @@
   "handcrafted:recipes/misc/oak_table": {
     "criteria": {
       "has_oak_table": "2025-05-27 21:24:11 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-05-27 21:48:23 +0000"
     },
     "done": true
   },
@@ -5969,6 +5993,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/misc/unidentified_artifact": {
+    "criteria": {
+      "has_artifact_shards": "2025-05-27 21:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-27 21:24:11 +0000"
@@ -6083,6 +6113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-27 21:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2025-05-27 21:32:24 +0000"
@@ -6122,6 +6158,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-27 21:17:01 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/combat/bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-05-27 21:46:29 +0000"
     },
     "done": true
   },
@@ -6276,6 +6318,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/misc/archeology_table": {
+    "criteria": {
+      "has_artifact_shards": "2025-05-27 21:48:23 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge": {
     "criteria": {
       "has_planks": "2025-05-27 21:24:11 +0000"
@@ -6372,6 +6420,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-27 21:52:37 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/andesite": {
     "criteria": {
       "has_the_recipe": "2025-05-27 21:17:01 +0000"
@@ -6426,6 +6480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-27 21:52:37 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_shelf": {
     "criteria": {
       "has_planks": "2025-05-27 21:24:11 +0000"
@@ -6435,6 +6495,12 @@
   "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-27 21:17:01 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:artifact_shards": {
+    "criteria": {
+      "has_shards": "2025-05-27 21:48:23 +0000"
     },
     "done": true
   },
@@ -6498,6 +6564,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/ladder_slab": {
+    "criteria": {
+      "has_ladder": "2025-05-27 21:51:10 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/acacia": {
     "criteria": {
       "has_the_recipe": "2025-05-27 21:17:01 +0000"
@@ -6543,6 +6615,12 @@
   "mcwwindows:recipes/prismarine": {
     "criteria": {
       "has_the_recipe": "2025-05-27 21:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-27 21:46:29 +0000"
     },
     "done": true
   },
