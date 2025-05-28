@@ -22,14 +22,18 @@
       "volcanic_plains": "2025-05-28 01:33:12 +0000",
       "woodland": "2025-05-26 23:48:10 +0000",
       "lavender_field": "2025-05-28 01:36:22 +0000",
+      "shrubland": "2025-05-28 01:44:23 +0000",
       "old_growth_woodland": "2025-05-27 01:36:58 +0000",
+      "rocky_shrubland": "2025-05-28 01:44:47 +0000",
       "lush_desert": "2025-05-26 23:47:15 +0000",
       "redwood_forest": "2025-05-28 01:34:18 +0000",
       "prairie": "2025-05-28 01:34:19 +0000",
       "fungal_jungle": "2025-05-27 01:11:14 +0000",
       "dune_beach": "2025-05-28 01:37:56 +0000",
+      "gravel_beach": "2025-05-28 01:51:53 +0000",
       "orchard": "2025-05-28 01:41:35 +0000",
       "floodplain": "2025-05-26 23:50:06 +0000",
+      "seasonal_forest": "2025-05-28 01:47:13 +0000",
       "rainforest": "2025-05-26 23:48:09 +0000",
       "jacaranda_glade": "2025-05-28 01:40:26 +0000",
       "rocky_rainforest": "2025-05-26 23:52:32 +0000",
@@ -2676,6 +2680,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-05-28 01:47:33 +0000",
       "minecraft:beach": "2025-05-27 01:25:16 +0000",
       "minecraft:forest": "2025-05-27 01:43:40 +0000",
       "minecraft:sparse_jungle": "2025-05-28 01:33:23 +0000",
@@ -2683,6 +2688,7 @@
       "minecraft:ocean": "2025-05-28 01:38:33 +0000",
       "minecraft:river": "2025-05-27 00:00:42 +0000",
       "minecraft:lukewarm_ocean": "2025-05-27 01:06:01 +0000",
+      "minecraft:birch_forest": "2025-05-28 01:44:42 +0000",
       "minecraft:stony_shore": "2025-05-27 01:25:31 +0000",
       "minecraft:bamboo_jungle": "2025-05-27 01:42:36 +0000"
     },
@@ -5076,6 +5082,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/building_blocks/rotten_stairs": {
+    "criteria": {
+      "has_rotten_planks": "2025-05-28 01:46:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/mangrove_counter": {
     "criteria": {
       "has_mangrove_counter": "2025-05-28 01:28:30 +0000"
@@ -5148,6 +5160,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/misc/rotten_fence": {
+    "criteria": {
+      "has_rotten_planks": "2025-05-28 01:46:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/mangrove_table": {
     "criteria": {
       "has_mangrove_table": "2025-05-28 01:28:30 +0000"
@@ -5202,6 +5220,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/redstone/rotten_trapdoor": {
+    "criteria": {
+      "has_rotten_planks": "2025-05-28 01:46:22 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/mangrove_shelf": {
     "criteria": {
       "has_planks": "2025-05-28 01:28:30 +0000"
@@ -5238,6 +5262,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/redstone/rotten_fence_gate": {
+    "criteria": {
+      "has_rotten_planks": "2025-05-28 01:46:22 +0000"
+    },
+    "done": true
+  },
   "mcwfurnituresbop:recipes/mahogany": {
     "criteria": {
       "has_wood": "2025-05-28 01:24:26 +0000"
@@ -5262,6 +5292,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/redstone/rotten_pressure_plate": {
+    "criteria": {
+      "has_rotten_planks": "2025-05-28 01:46:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/mangrove_bench": {
     "criteria": {
       "has_mangrove_bench": "2025-05-28 01:28:30 +0000"
@@ -5277,6 +5313,12 @@
   "handcrafted:recipes/misc/mangrove_desk": {
     "criteria": {
       "has_mangrove_desk": "2025-05-28 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-28 01:46:15 +0000"
     },
     "done": true
   },
@@ -5358,9 +5400,21 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/redstone/rotten_door": {
+    "criteria": {
+      "has_rotten_planks": "2025-05-28 01:46:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/mangrove_drawer": {
     "criteria": {
       "has_mangrove_drawer": "2025-05-28 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/building_blocks/rotten_slab": {
+    "criteria": {
+      "has_rotten_planks": "2025-05-28 01:46:22 +0000"
     },
     "done": true
   },
