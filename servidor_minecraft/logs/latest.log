@@ -3974,3 +3974,60 @@ Caused by: java.io.IOException: Invalid tag id: 20
 [01:55:10] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [01:55:10] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [01:55:10] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:56:53] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:56:53] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:57:01] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=203, y=48, z=159}
+[01:57:11] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:57:11] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:57:11] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:57:45] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:57:45] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:58:11] [Worker-Main-6/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:58:11] [Worker-Main-6/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:58:11] [Worker-Main-6/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:58:11] [Worker-Main-6/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:58:11] [Worker-Main-6/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:58:45] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:58:45] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:58:45] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:58:45] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:58:45] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:58:45] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[01:59:49] [Server thread/INFO]: mi2mm was slain by Ocean Creeper
+[02:00:32] [Server thread/INFO]: mi2mm teleported to -781.5 62.0 -2537.5 minecraft:overworld
+[02:00:39] [Server thread/INFO]: mi2mm was slain by Ocean Creeper
+[02:01:07] [Server thread/INFO]: mi2mm teleported to -781.5 62.0 -2537.5 minecraft:overworld
+[02:01:10] [Server thread/INFO]: mi2mm was slain by Ocean Creeper
+[02:01:23] [Server thread/INFO]: mi2mm teleported to -777.5 59.0 -2535.5 minecraft:overworld
+[02:01:32] [Server thread/INFO]: mi2mm was slain by Ocean Creeper
+[02:01:50] [Server thread/INFO]: mi2mm teleported to -781.5 62.0 -2537.5 minecraft:overworld
+[02:01:52] [Server thread/INFO]: mi2mm was slain by Ocean Creeper
+[02:02:18] [Server thread/INFO]: mi2mm teleported to -781.5 62.0 -2537.5 minecraft:overworld
+[02:02:20] [Server thread/INFO]: mi2mm was slain by Ocean Creeper
+[02:02:29] [Server thread/INFO]: mi2mm teleported to -781.5 62.0 -2537.5 minecraft:overworld
+[02:02:39] [Server thread/INFO]: mi2mm was slain by Ocean Creeper
+[02:02:50] [Server thread/INFO]: mi2mm teleported to -731.5 62.0 -2514.5 minecraft:overworld
+[02:02:57] [Server thread/INFO]: mi2mm was slain by Ocean Creeper
+[02:03:06] [Server thread/INFO]: mi2mm teleported to -731.5 62.0 -2513.5 minecraft:overworld
+[02:04:52] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[02:04:52] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[02:04:52] [Worker-Main-5/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[02:05:26] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:06:07] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:06:07] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:06:07] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:06:07] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:06:07] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:06:07] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:06:07] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:06:07] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:06:07] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:06:07] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:06:07] [Worker-Main-5/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[02:06:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[02:06:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[02:06:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[02:06:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[02:06:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[02:06:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
+[02:06:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:trial_chambers/chamber/entrance_cap -> minecraft:trial_chambers/chamber/entrance_cap
