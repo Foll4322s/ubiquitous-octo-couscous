@@ -3208,3 +3208,7 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [02:03:15] [Server thread/INFO]: Loading config from file...
 [02:03:16] [Server thread/INFO]: mi2mm joined the game
 [02:03:16] [Server thread/INFO]: Receiving client config
+[02:13:13] [Server thread/INFO]: mi2mm teleported to -100.5 70.0 -2231.5 minecraft:overworld
+[02:13:25] [Server thread/INFO]: mi2mm teleported to -272.5 62.0 -2430.5 minecraft:overworld
+[02:14:31] [Server thread/INFO]: mi2mm teleported to -100.5 70.0 -2231.5 minecraft:overworld
+[02:14:52] [Server thread/INFO]: mi2mm teleported to -272.5 62.0 -2430.5 minecraft:overworld
