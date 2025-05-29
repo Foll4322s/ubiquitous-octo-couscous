@@ -3231,3 +3231,10 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [02:32:12] [Server thread/INFO]: Named entity class_1646['Bernadette'/37, l='ServerLevel[world]', x=19.16, y=70.00, z=54.30] died: Bernadette was slain by Zombie
 [02:32:59] [Server thread/INFO]: mi2mm teleported to 261.5 63.0 -390.5 minecraft:overworld
 [02:34:13] [Server thread/INFO]: mi2mm has made the advancement [When in Rome]
+[02:36:22] [Server thread/INFO]: mi2mm was slain by Zombie
+[02:36:36] [Server thread/INFO]: mi2mm teleported to 191.5 63.0 -427.5 minecraft:overworld
+[02:40:00] [Server thread/INFO]: mi2mm teleported to 100.0 72.0 -1139.0 minecraft:overworld
+[02:42:17] [Server thread/INFO]: mi2mm hit the ground too hard
+[02:42:39] [Server thread/INFO]: mi2mm teleported to 114.5 70.0 -1177.5 minecraft:overworld
+[02:45:03] [Server thread/INFO]: mi2mm was shot by Skeleton
+[02:45:19] [Server thread/INFO]: mi2mm teleported to 98.5 72.0 -1107.5 minecraft:overworld
