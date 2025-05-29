@@ -3249,3 +3249,5 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [02:58:34] [Server thread/INFO]: mi2mm was slain by Zombie
 [02:58:52] [Server thread/INFO]: mi2mm teleported to 49.5 -28.0 -1094.5 minecraft:overworld
 [02:59:00] [Server thread/INFO]: mi2mm teleported to -100.5 70.0 -2231.5 minecraft:overworld
+[03:15:48] [Server thread/INFO]: mi2mm lost connection: Disconnected
+[03:15:48] [Server thread/INFO]: mi2mm left the game
