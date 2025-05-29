@@ -3202,3 +3202,9 @@ Caused by: java.io.IOException: Invalid tag id: 116
 	... 55 more
 [01:27:02] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
 [01:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30095ms or 601 ticks behind
+[02:03:08] [User Authenticator #1/INFO]: UUID of player mi2mm is 45e8273e-b8d3-4f3c-9884-1e22cac22091
+[02:03:15] [Server thread/INFO]: mi2mm[/127.231.156.8:58065] logged in with entity id 135 at (-127.22607724269068, 63.0, -2209.5265329060476)
+[02:03:15] [Server thread/INFO]: Sending server config values to client
+[02:03:15] [Server thread/INFO]: Loading config from file...
+[02:03:16] [Server thread/INFO]: mi2mm joined the game
+[02:03:16] [Server thread/INFO]: Receiving client config
