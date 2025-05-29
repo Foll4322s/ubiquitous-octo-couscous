@@ -3238,3 +3238,7 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [02:42:39] [Server thread/INFO]: mi2mm teleported to 114.5 70.0 -1177.5 minecraft:overworld
 [02:45:03] [Server thread/INFO]: mi2mm was shot by Skeleton
 [02:45:19] [Server thread/INFO]: mi2mm teleported to 98.5 72.0 -1107.5 minecraft:overworld
+[02:47:24] [Server thread/INFO]: mi2mm teleported to -100.5 70.0 -2231.5 minecraft:overworld
+[02:48:15] [Server thread/INFO]: mi2mm teleported to 98.5 72.0 -1107.5 minecraft:overworld
+[02:53:02] [Server thread/INFO]: mi2mm was blown up by Cave Creeper
+[02:53:12] [Server thread/INFO]: mi2mm teleported to 87.5 -7.0 -1119.5 minecraft:overworld
