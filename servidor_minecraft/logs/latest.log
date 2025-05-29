@@ -3212,3 +3212,22 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [02:13:25] [Server thread/INFO]: mi2mm teleported to -272.5 62.0 -2430.5 minecraft:overworld
 [02:14:31] [Server thread/INFO]: mi2mm teleported to -100.5 70.0 -2231.5 minecraft:overworld
 [02:14:52] [Server thread/INFO]: mi2mm teleported to -272.5 62.0 -2430.5 minecraft:overworld
+[02:20:38] [Server thread/INFO]: mi2mm teleported to -100.5 70.0 -2231.5 minecraft:overworld
+[02:22:04] [Server thread/INFO]: mi2mm teleported to 3.0 84.0 -49.0 minecraft:overworld
+[02:24:46] [Server thread/INFO]: mi2mm has made the advancement [A Major Trial Of Strengh]
+[02:24:56] [Server thread/INFO]: Villager class_1646['Tyrell'/134, l='ServerLevel[world]', x=8.35, y=79.00, z=25.83] died, message: 'Tyrell was slain by Husk'
+[02:24:56] [Server thread/INFO]: Named entity class_1646['Tyrell'/134, l='ServerLevel[world]', x=8.35, y=79.00, z=25.83] died: Tyrell was slain by Husk
+[02:26:01] [Server thread/INFO]: mi2mm was shot by Skeleton
+[02:26:38] [Server thread/INFO]: mi2mm teleported to 49.5 70.0 167.5 minecraft:overworld
+[02:26:46] [Server thread/INFO]: mi2mm has made the advancement [Not Today, Thank You]
+[02:27:07] [Server thread/INFO]: mi2mm was shot by Skeleton
+[02:27:51] [Server thread/INFO]: mi2mm teleported to 49.5 70.0 167.5 minecraft:overworld
+[02:28:17] [Server thread/INFO]: mi2mm was shot by Skeleton
+[02:28:39] [Server thread/INFO]: mi2mm teleported to 36.5 72.0 166.5 minecraft:overworld
+[02:29:10] [Server thread/INFO]: mi2mm was shot by Skeleton
+[02:29:27] [Server thread/INFO]: mi2mm teleported to 62.5 73.0 148.5 minecraft:overworld
+[02:31:57] [Server thread/INFO]: mi2mm has made the advancement [Sneak 100]
+[02:32:12] [Server thread/INFO]: Villager class_1646['Bernadette'/37, l='ServerLevel[world]', x=19.16, y=70.00, z=54.30] died, message: 'Bernadette was slain by Zombie'
+[02:32:12] [Server thread/INFO]: Named entity class_1646['Bernadette'/37, l='ServerLevel[world]', x=19.16, y=70.00, z=54.30] died: Bernadette was slain by Zombie
+[02:32:59] [Server thread/INFO]: mi2mm teleported to 261.5 63.0 -390.5 minecraft:overworld
+[02:34:13] [Server thread/INFO]: mi2mm has made the advancement [When in Rome]
