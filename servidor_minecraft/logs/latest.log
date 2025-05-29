@@ -3242,3 +3242,10 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [02:48:15] [Server thread/INFO]: mi2mm teleported to 98.5 72.0 -1107.5 minecraft:overworld
 [02:53:02] [Server thread/INFO]: mi2mm was blown up by Cave Creeper
 [02:53:12] [Server thread/INFO]: mi2mm teleported to 87.5 -7.0 -1119.5 minecraft:overworld
+[02:57:00] [Server thread/INFO]: mi2mm was doomed to fall by Spider
+[02:57:21] [Server thread/INFO]: mi2mm teleported to 48.5 -27.0 -1093.5 minecraft:overworld
+[02:57:31] [Server thread/INFO]: mi2mm was slain by Zombie
+[02:57:50] [Server thread/INFO]: mi2mm teleported to 49.5 -28.0 -1094.5 minecraft:overworld
+[02:58:34] [Server thread/INFO]: mi2mm was slain by Zombie
+[02:58:52] [Server thread/INFO]: mi2mm teleported to 49.5 -28.0 -1094.5 minecraft:overworld
+[02:59:00] [Server thread/INFO]: mi2mm teleported to -100.5 70.0 -2231.5 minecraft:overworld
