@@ -3653,3 +3653,8 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [20:25:02] [Server thread/INFO]: Named entity class_1641['Luba'/45723, l='ServerLevel[world]', x=-3143.09, y=62.94, z=-2549.57] died: Luba burned to death
 [20:29:48] [Server thread/INFO]: <vichoclo777> ola
 [20:29:53] [Server thread/INFO]: <vichoclo777> estas bebe
+[20:30:36] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
+[20:32:33] [Server thread/INFO]: vichoclo777 teleported to -1151.5 66.0 -504.5 minecraft:overworld
+[20:34:57] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
+[20:41:26] [Server thread/INFO]: Luengou teleported to -1189.5 72.0 -452.5 minecraft:overworld
+[20:47:48] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
