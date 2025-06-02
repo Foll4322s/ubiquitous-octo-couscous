@@ -441,6 +441,8 @@
       "minecraft:river": "2025-05-26 22:45:44 +0000",
       "minecraft:lukewarm_ocean": "2025-05-27 01:05:43 +0000",
       "minecraft:stony_shore": "2025-05-27 01:25:14 +0000",
+      "minecraft:snowy_plains": "2025-06-02 20:06:56 +0000",
+      "minecraft:snowy_beach": "2025-06-02 20:06:22 +0000",
       "minecraft:savanna": "2025-05-27 21:16:29 +0000",
       "minecraft:plains": "2025-05-27 21:10:47 +0000"
     },
@@ -458,7 +460,8 @@
       "bread": "2025-05-26 22:46:06 +0000",
       "golden_apple": "2025-06-02 19:43:28 +0000",
       "cookie": "2025-05-27 01:00:16 +0000",
-      "potato": "2025-05-26 22:49:46 +0000"
+      "potato": "2025-05-26 22:49:46 +0000",
+      "cooked_cod": "2025-06-02 19:56:28 +0000"
     },
     "done": false
   },
@@ -5512,6 +5515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-02 20:06:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_tile_stairs_from_tuff_or_tuff_tiles_stonecutting": {
     "criteria": {
       "has_tuff_or_tuff_tiles": "2025-06-02 19:12:11 +0000"
@@ -5623,6 +5632,12 @@
   "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-02 19:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-06-02 19:55:54 +0000"
     },
     "done": true
   },
@@ -5957,6 +5972,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-02 20:06:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-02 19:52:22 +0000"
@@ -6047,6 +6068,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-06-02 19:55:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-02 19:12:11 +0000"
@@ -6116,6 +6143,12 @@
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-06-02 19:02:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2025-06-02 19:55:03 +0000"
     },
     "done": true
   },
@@ -6191,6 +6224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-02 20:06:31 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/deepslate_brick_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-02 19:12:15 +0000"
@@ -6224,6 +6263,12 @@
   "mcwfurnituresbop:recipes/jacaranda": {
     "criteria": {
       "has_wood": "2025-06-02 19:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-02 20:06:41 +0000"
     },
     "done": true
   },
