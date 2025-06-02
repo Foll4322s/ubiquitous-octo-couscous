@@ -6780,6 +6780,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-02 19:14:30 +0000"
@@ -6828,6 +6834,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-06-02 20:58:03 +0000"
@@ -6849,6 +6861,12 @@
   "mcwbridges:recipes/spruce_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-02 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
     },
     "done": true
   },
@@ -7146,6 +7164,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
     "criteria": {
       "has_minecraft:glass": "2025-06-02 20:14:40 +0000"
@@ -7314,6 +7338,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-02 21:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-02 20:14:40 +0000"
@@ -7362,9 +7392,21 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/spruce_log_slab": {
+    "criteria": {
+      "has_spruce_log": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-02 19:01:41 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:38 +0000"
     },
     "done": true
   },
@@ -7398,6 +7440,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_door": {
     "criteria": {
       "has_planks": "2025-06-02 19:41:13 +0000"
@@ -7410,9 +7458,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_corner_trim": {
     "criteria": {
       "has_birch_corner_trim": "2025-06-02 20:58:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
     },
     "done": true
   },
@@ -7446,6 +7506,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_desk": {
     "criteria": {
       "has_spruce_desk": "2025-06-02 19:19:01 +0000"
@@ -7473,6 +7539,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-06-02 19:40:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
     },
     "done": true
   },
@@ -7521,6 +7593,12 @@
   "biomesoplenty:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_planks": "2025-06-02 19:41:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
     },
     "done": true
   },
@@ -7578,6 +7656,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/maple_fence": {
     "criteria": {
       "has_planks": "2025-06-02 19:41:23 +0000"
@@ -7626,6 +7710,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-02 20:14:40 +0000"
@@ -7647,6 +7737,12 @@
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2025-06-02 20:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-02 21:08:39 +0000"
     },
     "done": true
   },
@@ -7734,6 +7830,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
       "has_birch_dining_bench": "2025-06-02 20:58:03 +0000"
@@ -7761,6 +7869,12 @@
   "handcrafted:recipes/misc/birch_chair": {
     "criteria": {
       "has_birch_chair": "2025-06-02 20:58:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:38 +0000"
     },
     "done": true
   },
@@ -7794,6 +7908,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-02 20:58:03 +0000"
@@ -7809,6 +7929,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_table": {
     "criteria": {
       "has_minecraft:birch_planks": "2025-06-02 20:58:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
     },
     "done": true
   },
@@ -7836,6 +7962,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-02 19:31:18 +0000"
@@ -7857,6 +7989,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_minecraft:birch_planks": "2025-06-02 20:58:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
     },
     "done": true
   },
@@ -7938,9 +8076,21 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-02 21:08:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-02 19:31:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:08:39 +0000"
     },
     "done": true
   },
