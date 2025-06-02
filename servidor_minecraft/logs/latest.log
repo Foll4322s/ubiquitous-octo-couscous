@@ -3697,3 +3697,4 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [21:57:34] [Server thread/INFO]: Luengou joined the game
 [21:57:35] [Server thread/INFO]: Receiving client config
 [22:01:11] [Server thread/INFO]: Luengou teleported to 78.0 93.0 -3968.0 minecraft:overworld
+[22:02:22] [Server thread/INFO]: Luengou teleported to -1103.5 64.0 -647.5 minecraft:overworld
