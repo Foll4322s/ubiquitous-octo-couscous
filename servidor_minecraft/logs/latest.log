@@ -3678,3 +3678,4 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [21:21:47] [Server thread/INFO]: Villager class_1646['Janina'/65878, l='ServerLevel[world]', x=-1104.17, y=65.00, z=-658.56] died, message: 'Janina was slain by Luengou'
 [21:21:47] [Server thread/INFO]: Named entity class_1646['Janina'/65878, l='ServerLevel[world]', x=-1104.17, y=65.00, z=-658.56] died: Janina was slain by Luengou
 [21:23:36] [Server thread/INFO]: vichoclo777 teleported to -1151.5 66.0 -504.5 minecraft:overworld
+[21:36:49] [Server thread/INFO]: vichoclo777 teleported to -1306.5 64.0 -215.5 minecraft:overworld
