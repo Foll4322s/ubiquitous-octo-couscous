@@ -3673,3 +3673,8 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [21:17:57] [Server thread/INFO]: Luengou teleported to 260.5 -21.0 -391.5 minecraft:overworld
 [21:20:23] [Server thread/INFO]: Luengou has made the advancement [What a Deal!]
 [21:21:09] [Server thread/INFO]: Luengou teleported to -1103.5 64.0 -647.5 minecraft:overworld
+[21:21:46] [Server thread/INFO]: Villager class_1646['Jacquiline'/65879, l='ServerLevel[world]', x=-1104.85, y=65.56, z=-658.58] died, message: 'Jacquiline was slain by Luengou'
+[21:21:46] [Server thread/INFO]: Named entity class_1646['Jacquiline'/65879, l='ServerLevel[world]', x=-1104.85, y=65.56, z=-658.58] died: Jacquiline was slain by Luengou
+[21:21:47] [Server thread/INFO]: Villager class_1646['Janina'/65878, l='ServerLevel[world]', x=-1104.17, y=65.00, z=-658.56] died, message: 'Janina was slain by Luengou'
+[21:21:47] [Server thread/INFO]: Named entity class_1646['Janina'/65878, l='ServerLevel[world]', x=-1104.17, y=65.00, z=-658.56] died: Janina was slain by Luengou
+[21:23:36] [Server thread/INFO]: vichoclo777 teleported to -1151.5 66.0 -504.5 minecraft:overworld

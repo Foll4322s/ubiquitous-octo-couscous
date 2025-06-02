@@ -6870,6 +6870,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-02 19:14:30 +0000"
@@ -6924,6 +6930,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-06-02 19:40:13 +0000"
@@ -6939,6 +6951,12 @@
   "handcrafted:recipes/misc/calcite_pillar_trim": {
     "criteria": {
       "has_calcite_pillar_trim": "2025-06-02 21:13:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
@@ -7014,9 +7032,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2025-06-02 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
     },
     "done": true
   },
@@ -7110,6 +7140,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_nightstand": {
     "criteria": {
       "has_birch_nightstand": "2025-06-02 20:58:03 +0000"
@@ -7152,6 +7194,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-06-02 19:36:41 +0000"
@@ -7167,6 +7221,18 @@
   "mcwdoors:recipes/birch": {
     "criteria": {
       "has_wood": "2025-06-02 19:31:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
     },
     "done": true
   },
@@ -7194,6 +7260,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_dining_bench": {
     "criteria": {
       "has_spruce_dining_bench": "2025-06-02 19:19:01 +0000"
@@ -7206,6 +7278,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-06-02 19:50:33 +0000"
@@ -7215,6 +7299,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-06-02 19:32:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
@@ -7266,9 +7356,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/ochre_froglight_slab": {
     "criteria": {
       "has_ochre_froglight": "2025-06-02 19:14:07 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
     },
     "done": true
   },
@@ -7290,9 +7392,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
     "criteria": {
       "has_minecraft:spruce_planks": "2025-06-02 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
@@ -7329,6 +7443,12 @@
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2025-06-02 20:58:03 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
@@ -7428,9 +7548,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-06-02 21:08:38 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/dark_oak_log_slab": {
+    "criteria": {
+      "has_dark_oak_log": "2025-06-02 21:29:03 +0000"
     },
     "done": true
   },
@@ -7500,6 +7632,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_or_calcite_shingles_stonecutting": {
     "criteria": {
       "has_calcite_or_calcite_shingles": "2025-06-02 21:13:06 +0000"
@@ -7530,6 +7668,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:03 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge": {
     "criteria": {
       "has_planks": "2025-06-02 20:14:40 +0000"
@@ -7539,6 +7683,12 @@
   "stoneworks:recipes/building_blocks/calcite_tile_slab_from_calcite_or_calcite_tiles_stonecutting": {
     "criteria": {
       "has_calcite_or_calcite_tiles": "2025-06-02 21:13:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
     },
     "done": true
   },
@@ -7569,6 +7719,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-02 19:14:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
     },
     "done": true
   },
@@ -7614,6 +7770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oven": {
     "criteria": {
       "has_oven": "2025-06-02 19:33:07 +0000"
@@ -7647,6 +7809,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
@@ -7710,9 +7878,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_calcite_brick_wall_from_calcite_or_mossy_calcite_bricks_stonecutting": {
     "criteria": {
       "has_calcite_or_mossy_calcite_bricks": "2025-06-02 21:13:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
     },
     "done": true
   },
@@ -7737,6 +7929,12 @@
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2025-06-02 20:58:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
@@ -7773,6 +7971,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-02 20:14:40 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
@@ -7815,6 +8019,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-02 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-06-02 21:29:03 +0000"
     },
     "done": true
   },
@@ -7872,9 +8082,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
     "criteria": {
       "has_minecraft:glass": "2025-06-02 20:14:40 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-06-02 21:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
     },
     "done": true
   },
@@ -7884,9 +8118,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-02 21:08:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
@@ -7950,6 +8196,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-02 19:41:23 +0000"
@@ -7962,9 +8214,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-02 19:14:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
@@ -7983,6 +8247,18 @@
   "another_furniture:recipes/birch_chair": {
     "criteria": {
       "has_planks": "2025-06-02 20:58:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-02 21:20:23 +0000"
     },
     "done": true
   },
@@ -8016,9 +8292,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-06-02 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
@@ -8046,15 +8346,51 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-06-02 19:01:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_calcite_stairs_from_calcite_or_polished_calcite_stonecutting": {
     "criteria": {
       "has_calcite_or_polished_calcite": "2025-06-02 21:13:06 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-02 21:29:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
@@ -8136,6 +8472,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
     "criteria": {
       "has_minecraft:birch_planks": "2025-06-02 20:58:03 +0000"
@@ -8190,6 +8532,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-02 21:08:39 +0000"
@@ -8226,9 +8574,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-02 21:29:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_calcite_corner_trim": "2025-06-02 21:13:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
@@ -8406,6 +8766,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2025-06-02 19:19:01 +0000"
@@ -8430,6 +8796,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-06-02 19:51:22 +0000"
@@ -8439,6 +8811,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-06-02 19:32:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
@@ -8481,6 +8859,12 @@
   "travelersbackpack:recipes/decorations/red_sleeping_bag": {
     "criteria": {
       "has_red_wool": "2025-06-02 20:42:49 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-02 21:29:03 +0000"
     },
     "done": true
   },
@@ -8538,6 +8922,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_lavender": "2025-06-02 19:02:59 +0000"
@@ -8565,6 +8955,12 @@
   "stoneworks:recipes/building_blocks/calcite_shingle_stairs_from_calcite_or_calcite_shingles_stonecutting": {
     "criteria": {
       "has_calcite_or_calcite_shingles": "2025-06-02 21:13:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-06-02 21:29:13 +0000"
     },
     "done": true
   },
