@@ -3679,3 +3679,8 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [21:21:47] [Server thread/INFO]: Named entity class_1646['Janina'/65878, l='ServerLevel[world]', x=-1104.17, y=65.00, z=-658.56] died: Janina was slain by Luengou
 [21:23:36] [Server thread/INFO]: vichoclo777 teleported to -1151.5 66.0 -504.5 minecraft:overworld
 [21:36:49] [Server thread/INFO]: vichoclo777 teleported to -1306.5 64.0 -215.5 minecraft:overworld
+[21:41:57] [Server thread/INFO]: Luengou teleported to -1189.5 72.0 -452.5 minecraft:overworld
+[21:42:56] [Server thread/INFO]: Luengou teleported to -1477.0 64.0 -444.0 minecraft:overworld
+[21:42:57] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:42:57] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:45:30] [Server thread/INFO]: Luengou teleported to -1103.5 63.0 -647.5 minecraft:overworld

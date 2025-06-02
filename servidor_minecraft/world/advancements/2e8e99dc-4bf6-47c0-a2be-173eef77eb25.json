@@ -6918,6 +6918,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_orange2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2025-06-02 20:14:40 +0000"
@@ -6957,6 +6963,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
     "criteria": {
       "has_minecraft:dark_oak_planks": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
     },
     "done": true
   },
@@ -7092,6 +7104,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_shelf": {
     "criteria": {
       "has_spruce_shelf": "2025-06-02 19:19:01 +0000"
@@ -7215,6 +7233,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_minecraft:spruce_planks": "2025-06-02 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
     },
     "done": true
   },
@@ -7524,6 +7548,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2025-06-02 20:58:03 +0000"
@@ -7551,6 +7581,12 @@
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-06-02 21:29:13 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_blue2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
     },
     "done": true
   },
@@ -7611,6 +7647,12 @@
   "mcwpaths:recipes/birch": {
     "criteria": {
       "has_wood": "2025-06-02 20:58:03 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
     },
     "done": true
   },
@@ -7974,6 +8016,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_table": {
     "criteria": {
       "has_planks": "2025-06-02 21:29:13 +0000"
@@ -8067,6 +8115,12 @@
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-06-02 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
     },
     "done": true
   },
@@ -8244,6 +8298,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_chair": {
     "criteria": {
       "has_planks": "2025-06-02 20:58:03 +0000"
@@ -8271,6 +8331,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-02 20:14:40 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
     },
     "done": true
   },
@@ -8436,6 +8502,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_calcite_slab_from_calcite_or_cobbled_calcite_stonecutting": {
     "criteria": {
       "has_calcite_or_cobbled_calcite": "2025-06-02 21:13:06 +0000"
@@ -8562,6 +8634,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_minecraft:birch_planks": "2025-06-02 20:58:03 +0000"
@@ -8598,6 +8676,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/glass_slab": {
     "criteria": {
       "has_glass": "2025-06-02 20:14:40 +0000"
@@ -8607,6 +8691,12 @@
   "stoneworks:recipes/building_blocks/cracked_calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-06-02 21:13:06 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2025-06-02 21:47:31 +0000"
     },
     "done": true
   },
@@ -8736,6 +8826,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_brown2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
     "criteria": {
       "has_minecraft:spruce_planks": "2025-06-02 19:19:01 +0000"
@@ -8787,6 +8883,12 @@
   "betterarcheology:recipes/building_blocks/rotten_slab": {
     "criteria": {
       "has_rotten_planks": "2025-06-02 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition1": "2025-06-02 21:47:31 +0000"
     },
     "done": true
   },
@@ -8919,6 +9021,12 @@
   "another_furniture:recipes/spruce_chair": {
     "criteria": {
       "has_planks": "2025-06-02 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass1": {
+    "criteria": {
+      "recipe_condition": "2025-06-02 21:47:31 +0000"
     },
     "done": true
   },
