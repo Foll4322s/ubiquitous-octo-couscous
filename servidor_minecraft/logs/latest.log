@@ -3684,3 +3684,16 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [21:42:57] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [21:42:57] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [21:45:30] [Server thread/INFO]: Luengou teleported to -1103.5 63.0 -647.5 minecraft:overworld
+[21:52:30] [Server thread/INFO]: Luengou teleported to -855.0 75.0 -573.0 minecraft:overworld
+[21:54:02] [Server thread/INFO]: Luengou teleported to -1155.0 69.0 69.0 minecraft:overworld
+[21:54:39] [Server thread/INFO]: Luengou teleported to 263.0 106.0 -3751.0 minecraft:overworld
+[21:55:41] [Server thread/INFO]: Luengou teleported to 345.0 101.0 -3801.0 minecraft:overworld
+[21:57:18] [Server thread/INFO]: Luengou lost connection: Disconnected
+[21:57:18] [Server thread/INFO]: Luengou left the game
+[21:57:30] [User Authenticator #3/INFO]: UUID of player Luengou is 2e8e99dc-4bf6-47c0-a2be-173eef77eb25
+[21:57:34] [Server thread/INFO]: Luengou[/127.132.58.206:45627] logged in with entity id 80878 at (329.6741608859303, 102.0, -3815.0877095366736)
+[21:57:34] [Server thread/INFO]: Sending server config values to client
+[21:57:34] [Server thread/INFO]: Loading config from file...
+[21:57:34] [Server thread/INFO]: Luengou joined the game
+[21:57:35] [Server thread/INFO]: Receiving client config
+[22:01:11] [Server thread/INFO]: Luengou teleported to 78.0 93.0 -3968.0 minecraft:overworld
