@@ -3222,3 +3222,33 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [18:54:37] [Server thread/INFO]: Loading config from file...
 [18:54:37] [Server thread/INFO]: vichoclo777 joined the game
 [18:54:38] [Server thread/INFO]: Receiving client config
+[18:57:01] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
+[19:02:47] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:04:59] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:08:14] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
+[19:09:08] [Server thread/INFO]: Luengou teleported to -2296.5 63.0 -1115.5 minecraft:overworld
+[19:09:33] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=202, y=47, z=211}
+[19:10:57] [pool-8-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna]] from pos class_2338{x=-2597, y=68, z=-821}
+[19:10:58] [Worker-Main-6/WARN]: Couldn't find template pool reference: ctov:village/waystone/normal
+[19:10:58] [Worker-Main-6/WARN]: Couldn't find template pool reference: ctov:village/vampirism/totem
+[19:10:58] [Worker-Main-6/WARN]: Couldn't find template pool reference: ctov:village/bounty/plains
+[19:11:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2765ms or 55 ticks behind
+[19:11:01] [Worker-Main-6/WARN]: Couldn't find template pool reference: ctov:village/bounty/plains
+[19:11:01] [Worker-Main-6/WARN]: Couldn't find template pool reference: ctov:village/waystone/normal
+[19:11:01] [Worker-Main-6/WARN]: Couldn't find template pool reference: ctov:village/vampirism/totem
+[19:11:04] [Server thread/WARN]: Luengou moved too quickly! 3.369058577746273,-0.24918707874468282,9.482472939196668
+[19:11:08] [Server thread/WARN]: Luengou moved too quickly! 2.8803561934146273,3.0,9.172653733329298
+[19:11:09] [Worker-Main-6/WARN]: Couldn't find template pool reference: ctov:village/vampirism/totem
+[19:11:09] [Worker-Main-6/WARN]: Couldn't find template pool reference: ctov:village/bounty/plains
+[19:11:09] [Worker-Main-6/WARN]: Couldn't find template pool reference: ctov:village/waystone/normal
+[19:11:11] [Worker-Main-6/WARN]: Couldn't find template pool reference: ctov:village/waystone/normal
+[19:11:11] [Worker-Main-6/WARN]: Couldn't find template pool reference: ctov:village/bounty/plains
+[19:11:11] [Worker-Main-6/WARN]: Couldn't find template pool reference: ctov:village/vampirism/totem
+[19:11:14] [Server thread/WARN]: Luengou moved too quickly! 1.8991839033401448,-0.2522033402537289,10.077424187879615
+[19:11:17] [Server thread/WARN]: Luengou moved too quickly! 0.6740790370886316,1.0,10.045121522053705
+[19:11:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13638ms or 272 ticks behind
+[19:11:33] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
+[19:13:09] [Server thread/ERROR]: Unable to fill loot container in minecraft:overworld at class_2338{x=-2389, y=95, z=-947} as the loot table 'mvs:rare' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[19:13:49] [Server thread/ERROR]: Unable to fill loot container in minecraft:overworld at class_2338{x=-2389, y=95, z=-947} as the loot table 'mvs:rare' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[19:15:08] [Server thread/ERROR]: Unable to fill loot container in minecraft:overworld at class_2338{x=-2393, y=75, z=-945} as the loot table 'mvs:rare' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[19:16:11] [Server thread/INFO]: vichoclo777 teleported to -1151.5 66.0 -504.5 minecraft:overworld
