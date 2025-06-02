@@ -5564,6 +5564,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-06-02 19:31:02 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-06-02 19:02:59 +0000"

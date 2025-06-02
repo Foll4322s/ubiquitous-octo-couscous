@@ -3258,3 +3258,11 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [19:27:35] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
 [19:27:38] [Server thread/INFO]: Villager class_1646['Hazel'/14592, l='ServerLevel[world]', x=-2311.36, y=31.00, z=-1284.76] died, message: 'Hazel was slain by Zombie'
 [19:27:38] [Server thread/INFO]: Named entity class_1646['Hazel'/14592, l='ServerLevel[world]', x=-2311.36, y=31.00, z=-1284.76] died: Hazel was slain by Zombie
+[19:28:43] [Server thread/INFO]: <Luengou> zzzzzzzzzzzzzzz
+[19:28:49] [Server thread/INFO]: vichoclo777 teleported to -1151.5 66.0 -504.5 minecraft:overworld
+[19:29:08] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:32:28] [Worker-Main-6/WARN]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[19:32:28] [Worker-Main-6/WARN]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[19:32:38] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=202, y=47, z=211}
+[19:35:28] [Server thread/INFO]: vichoclo777 teleported to -1151.5 66.0 -504.5 minecraft:overworld
+[19:38:40] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
