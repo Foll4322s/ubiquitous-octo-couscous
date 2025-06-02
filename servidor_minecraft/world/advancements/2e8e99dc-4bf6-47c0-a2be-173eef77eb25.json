@@ -185,6 +185,7 @@
       "pumpkin_patch": "2025-06-02 19:37:04 +0000",
       "grassland": "2025-05-27 21:47:58 +0000",
       "prairie": "2025-05-27 21:16:22 +0000",
+      "gravel_beach": "2025-06-02 19:46:24 +0000",
       "orchard": "2025-05-27 21:33:03 +0000",
       "overgrown_greens": "2025-05-27 21:48:07 +0000",
       "mediterranean_forest": "2025-05-27 21:15:21 +0000",
@@ -2420,6 +2421,7 @@
       "minecraft:spider": "2025-05-27 01:33:34 +0000",
       "minecraft:zombie": "2025-05-26 23:46:57 +0000",
       "minecraft:creeper": "2025-05-27 21:11:19 +0000",
+      "minecraft:drowned": "2025-06-02 19:53:15 +0000",
       "minecraft:zombie_villager": "2025-05-27 00:07:34 +0000",
       "minecraft:bogged": "2025-05-27 00:16:23 +0000"
     },
@@ -6952,6 +6954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-06-02 19:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-06-02 19:32:54 +0000"
@@ -7432,6 +7440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-02 19:51:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
     "criteria": {
       "has_minecraft:spruce_planks": "2025-06-02 19:19:01 +0000"
@@ -7477,6 +7491,12 @@
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-06-02 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-06-02 19:51:22 +0000"
     },
     "done": true
   },
