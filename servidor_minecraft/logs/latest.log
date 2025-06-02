@@ -3646,3 +3646,10 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [20:19:19] [Server thread/INFO]: Named entity class_1646['Christin'/38028, l='ServerLevel[world]', x=-3113.42, y=63.94, z=-2542.85] died: Christin was slain by Jeremiah
 [20:19:38] [Server thread/INFO]: Villager class_1646['Frederick'/38030, l='ServerLevel[world]', x=-3116.70, y=63.00, z=-2538.15] died, message: 'Frederick was slain by Jeremiah'
 [20:19:38] [Server thread/INFO]: Named entity class_1646['Frederick'/38030, l='ServerLevel[world]', x=-3116.70, y=63.00, z=-2538.15] died: Frederick was slain by Jeremiah
+[20:20:28] [Server thread/INFO]: Named entity class_1641['Christin'/44488, l='ServerLevel[world]', x=-3152.04, y=62.94, z=-2520.62] died: Christin was slain by Iron Golem
+[20:20:39] [Server thread/INFO]: Named entity class_1641['Frederick'/44570, l='ServerLevel[world]', x=-3143.40, y=62.94, z=-2520.42] died: Frederick was slain by Iron Golem
+[20:24:00] [Server thread/INFO]: Villager class_1646['Luba'/38031, l='ServerLevel[world]', x=-3139.55, y=62.94, z=-2513.10] died, message: 'Luba was slain by Zombie'
+[20:24:00] [Server thread/INFO]: Named entity class_1646['Luba'/38031, l='ServerLevel[world]', x=-3139.55, y=62.94, z=-2513.10] died: Luba was slain by Zombie
+[20:25:02] [Server thread/INFO]: Named entity class_1641['Luba'/45723, l='ServerLevel[world]', x=-3143.09, y=62.94, z=-2549.57] died: Luba burned to death
+[20:29:48] [Server thread/INFO]: <vichoclo777> ola
+[20:29:53] [Server thread/INFO]: <vichoclo777> estas bebe
