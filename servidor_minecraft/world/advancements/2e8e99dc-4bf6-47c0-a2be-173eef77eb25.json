@@ -9587,6 +9587,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/green_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
     "criteria": {
       "has_minecraft:black_dye": "2025-06-03 00:50:34 +0000"
@@ -9629,6 +9635,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/red_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
     "criteria": {
       "has_minecraft:black_dye": "2025-06-03 00:50:34 +0000"
@@ -9665,6 +9677,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/orange_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-03 00:50:34 +0000"
@@ -9677,9 +9695,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-03 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
     },
     "done": true
   },
@@ -9710,6 +9740,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-06-03 01:20:40 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_blue_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
     },
     "done": true
   },
@@ -9749,6 +9785,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/cyan_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-06-03 00:50:34 +0000"
@@ -9776,6 +9818,24 @@
   "refurbished_furniture:recipes/decorations/dark_range_hood": {
     "criteria": {
       "has_dye": "2025-06-03 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/lime_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
     },
     "done": true
   },
@@ -9833,6 +9893,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/light_gray_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-06-03 01:20:40 +0000"
@@ -9857,6 +9923,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/gray_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/dark_stove": {
     "criteria": {
       "has_dye": "2025-06-03 00:50:34 +0000"
@@ -9866,6 +9938,12 @@
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
       "has_ink_sac": "2025-06-03 00:50:06 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
     },
     "done": true
   },
@@ -9905,6 +9983,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/black_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
     "criteria": {
       "has_minecraft:black_dye": "2025-06-03 00:50:34 +0000"
@@ -9929,6 +10013,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/brown_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2025-06-03 00:50:34 +0000"
@@ -9950,6 +10040,12 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2025-06-03 01:52:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-06-03 02:05:26 +0000"
     },
     "done": true
   },

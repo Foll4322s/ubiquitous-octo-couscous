@@ -35,3 +35,9 @@
 [01:58:06] [Server thread/INFO]: Luengou teleported to -1040.0 68.0 -826.0 minecraft:overworld
 [02:01:56] [Server thread/INFO]: Luengou teleported to -338.0 67.0 -1104.0 minecraft:overworld
 [02:03:50] [Server thread/INFO]: Luengou teleported to -1105.5 79.0 -633.5 minecraft:overworld
+[02:09:18] [Server thread/INFO]: Luengou teleported to 235.0 72.0 -561.0 minecraft:overworld
+[02:11:20] [Server thread/INFO]: Villager class_1646['Dana'/41682, l='ServerLevel[world]', x=200.47, y=65.59, z=-551.33] died, message: 'Dana burned to death'
+[02:11:20] [Server thread/INFO]: Named entity class_1646['Dana'/41682, l='ServerLevel[world]', x=200.47, y=65.59, z=-551.33] died: Dana burned to death
+[02:11:55] [Server thread/WARN]: Luengou moved wrongly!
+[02:12:23] [Server thread/INFO]: Luengou teleported to -1105.5 79.0 -633.5 minecraft:overworld
+[02:15:07] [Server thread/INFO]: Luengou teleported to -1189.5 72.0 -452.5 minecraft:overworld
