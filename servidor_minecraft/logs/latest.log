@@ -16,3 +16,10 @@
 [00:56:23] [Server thread/INFO]: vichoclo777 teleported to -1151.5 66.0 -504.5 minecraft:overworld
 [00:56:26] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
 [01:02:28] [Server thread/INFO]: vichoclo777 teleported to -1151.5 66.0 -504.5 minecraft:overworld
+[01:05:05] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:08:58] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
+[01:09:51] [Server thread/INFO]: Villager class_1646['Merna'/26847, l='ServerLevel[world]', x=-975.48, y=65.00, z=-210.91] died, message: 'Merna burned to death'
+[01:09:51] [Server thread/INFO]: Named entity class_1646['Merna'/26847, l='ServerLevel[world]', x=-975.48, y=65.00, z=-210.91] died: Merna burned to death
+[01:12:49] [Server thread/INFO]: vichoclo777 teleported to -1306.5 64.0 -215.5 minecraft:overworld
+[01:12:50] [Server thread/INFO]: Luengou teleported to -1189.5 72.0 -452.5 minecraft:overworld
+[01:13:10] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
