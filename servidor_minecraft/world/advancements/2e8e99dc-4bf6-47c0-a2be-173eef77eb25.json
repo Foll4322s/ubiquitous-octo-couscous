@@ -189,6 +189,7 @@
       "prairie": "2025-05-27 21:16:22 +0000",
       "snowy_coniferous_forest": "2025-06-02 20:12:24 +0000",
       "gravel_beach": "2025-06-02 19:46:24 +0000",
+      "glowing_grotto": "2025-06-03 01:49:08 +0000",
       "orchard": "2025-05-27 21:33:03 +0000",
       "overgrown_greens": "2025-05-27 21:48:07 +0000",
       "mediterranean_forest": "2025-05-27 21:15:21 +0000",
@@ -2431,6 +2432,7 @@
       "minecraft:creeper": "2025-05-27 21:11:19 +0000",
       "minecraft:drowned": "2025-06-02 19:53:15 +0000",
       "minecraft:zombie_villager": "2025-05-27 00:07:34 +0000",
+      "minecraft:husk": "2025-06-03 01:40:59 +0000",
       "minecraft:bogged": "2025-05-27 00:16:23 +0000",
       "minecraft:slime": "2025-06-03 01:20:39 +0000"
     },
@@ -9789,6 +9791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-03 01:52:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-03 00:50:34 +0000"
@@ -9936,6 +9944,12 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-03 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-03 01:52:57 +0000"
     },
     "done": true
   },
