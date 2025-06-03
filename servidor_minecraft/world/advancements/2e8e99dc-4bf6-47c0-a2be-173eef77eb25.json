@@ -2431,7 +2431,8 @@
       "minecraft:creeper": "2025-05-27 21:11:19 +0000",
       "minecraft:drowned": "2025-06-02 19:53:15 +0000",
       "minecraft:zombie_villager": "2025-05-27 00:07:34 +0000",
-      "minecraft:bogged": "2025-05-27 00:16:23 +0000"
+      "minecraft:bogged": "2025-05-27 00:16:23 +0000",
+      "minecraft:slime": "2025-06-03 01:20:39 +0000"
     },
     "done": false
   },
@@ -9704,6 +9705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-03 01:20:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-06-03 00:50:34 +0000"
@@ -9818,6 +9825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-03 01:20:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-03 00:50:34 +0000"
@@ -9845,6 +9858,12 @@
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
       "has_ink_sac": "2025-06-03 00:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-03 01:20:40 +0000"
     },
     "done": true
   },
@@ -9881,6 +9900,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
     "criteria": {
       "has_minecraft:black_dye": "2025-06-03 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "permanentsponges:recipes/building_blocks/aqueous_sponge": {
+    "criteria": {
+      "has_slime_ball": "2025-06-03 01:20:40 +0000"
     },
     "done": true
   },
