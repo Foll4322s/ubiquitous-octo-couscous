@@ -9554,6 +9554,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/diamond_block_slab": {
+    "criteria": {
+      "has_diamond_block": "2025-06-03 01:13:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-06-03 00:50:34 +0000"
@@ -9680,6 +9686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-03 01:17:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_bath": {
     "criteria": {
       "has_minecraft:black_dye": "2025-06-03 00:50:34 +0000"
@@ -9737,6 +9749,12 @@
   "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-03 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-03 01:13:26 +0000"
     },
     "done": true
   },
