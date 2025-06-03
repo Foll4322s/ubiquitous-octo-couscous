@@ -9707,6 +9707,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-03 02:17:29 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/pink_curtain_dyeing": {
     "criteria": {
       "has_white_curtain": "2025-06-03 02:05:26 +0000"
@@ -9854,6 +9860,12 @@
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-06-03 01:52:57 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-06-03 02:17:29 +0000"
     },
     "done": true
   },
@@ -10010,6 +10022,12 @@
   "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-03 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-03 02:17:29 +0000"
     },
     "done": true
   },
