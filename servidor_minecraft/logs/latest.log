@@ -3268,3 +3268,9 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [01:49:49] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
 [01:54:13] [Server thread/INFO]: Luengou lost connection: Disconnected
 [01:54:13] [Server thread/INFO]: Luengou left the game
+[02:08:46] [User Authenticator #2/INFO]: UUID of player vichoclo777 is 782c50a0-b2c9-4257-9dcb-0503a41cc01a
+[02:08:50] [Server thread/INFO]: vichoclo777[/127.253.158.223:36559] logged in with entity id 25354 at (-1104.9974167478947, 62.0, -552.9151813927957)
+[02:08:50] [Server thread/INFO]: Sending server config values to client
+[02:08:50] [Server thread/INFO]: Loading config from file...
+[02:08:50] [Server thread/INFO]: vichoclo777 joined the game
+[02:08:51] [Server thread/INFO]: Receiving client config
