@@ -10242,9 +10242,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-04 01:17:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-04 01:17:47 +0000"
     },
     "done": true
   },
@@ -10641,6 +10653,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-06-04 01:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-04 01:17:47 +0000"
     },
     "done": true
   },
