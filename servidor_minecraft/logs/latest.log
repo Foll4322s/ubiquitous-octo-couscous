@@ -3230,3 +3230,19 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [00:50:02] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [00:50:09] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [00:50:26] [Server thread/INFO]: Luengou teleported to -70.0 57.0 -319.0 minecraft:the_nether
+[00:51:11] [Server thread/INFO]: Luengou teleported to -142.5 61.0 -101.5 minecraft:the_nether
+[00:51:14] [Server thread/INFO]: Luengou burned to death
+[00:51:14] [Server thread/INFO]: Created new backpack backup file for Luengou with unique ID travelersbackpack.diamond_04.06.2025-00.51.14.dat
+[00:51:21] [Server thread/INFO]: Luengou teleported to -142.5 61.0 -101.5 minecraft:the_nether
+[00:51:38] [Server thread/INFO]: Luengou teleported to -118.0 50.0 23.0 minecraft:the_nether
+[00:51:39] [Server thread/INFO]: Luengou has made the advancement [Those Were the Days]
+[00:51:44] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:51:44] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:51:44] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:51:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:51:47] [Server thread/INFO]: Luengou teleported to -142.5 61.0 -101.5 minecraft:the_nether
+[00:52:01] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:52:01] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:52:01] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:52:20] [Server thread/INFO]: [Luengou: Gave 1 [Soul Sand] to Luengou]
+[00:52:31] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
