@@ -10440,6 +10440,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-04 01:44:37 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_black_pane3": {
     "criteria": {
       "recipe_condition": "2025-06-04 00:32:50 +0000"
