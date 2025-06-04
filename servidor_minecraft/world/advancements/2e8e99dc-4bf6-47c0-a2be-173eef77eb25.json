@@ -10067,6 +10067,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_black1": {
+    "criteria": {
+      "recipe_condition": "2025-06-04 00:32:13 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_flower_box": {
     "criteria": {
       "has_slab": "2025-06-04 00:26:19 +0000"
@@ -10079,9 +10085,33 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_black1": {
+    "criteria": {
+      "recipe_condition": "2025-06-04 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/black_stained_glass_slab": {
+    "criteria": {
+      "has_black_stained_glass": "2025-06-04 00:32:13 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane3": {
+    "criteria": {
+      "recipe_condition": "2025-06-04 00:32:50 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_bench": {
     "criteria": {
       "has_slab": "2025-06-04 00:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-04 00:32:13 +0000"
     },
     "done": true
   },
