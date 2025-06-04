@@ -3210,3 +3210,23 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [00:24:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [00:38:03] [Server thread/INFO]: Luengou teleported to -1189.5 72.0 -452.5 minecraft:overworld
 [00:40:00] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
+[00:40:58] [Server thread/INFO]: Luengou teleported to -2391.5 70.0 -942.5 minecraft:overworld
+[00:41:39] [Server thread/INFO]: Villager class_1646['Camelia'/4776, l='ServerLevel[world]', x=-2416.70, y=67.56, z=-1095.60] died, message: 'Camelia suffocated in a wall'
+[00:41:39] [Server thread/INFO]: Named entity class_1646['Camelia'/4776, l='ServerLevel[world]', x=-2416.70, y=67.56, z=-1095.60] died: Camelia suffocated in a wall
+[00:41:44] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
+[00:44:30] [pool-8-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:small/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp_fortified]] from pos class_2338{x=-1509, y=100, z=-1157}
+[00:44:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:46:06] [Server thread/INFO]: Luengou teleported to -1107.0 64.0 -898.0 minecraft:overworld
+[00:47:19] [Server thread/INFO]: No return portal found
+[00:47:23] [Server thread/INFO]: Luengou has made the advancement [We Need to Go Deeper]
+[00:47:25] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
+[00:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8194ms or 163 ticks behind
+[00:47:54] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:47:54] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:49:08] [Server thread/INFO]: Luengou teleported to -31.0 57.0 -187.0 minecraft:the_nether
+[00:50:01] [Server thread/INFO]: Luengou teleported to 0.0 33.0 -253.0 minecraft:the_nether
+[00:50:02] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:50:02] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:50:02] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:50:09] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[00:50:26] [Server thread/INFO]: Luengou teleported to -70.0 57.0 -319.0 minecraft:the_nether
