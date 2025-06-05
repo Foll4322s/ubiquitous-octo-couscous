@@ -10068,15 +10068,255 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_diorite_brick_stairs_from_diorite_or_mossy_diorite_bricks_stonecutting": {
+  "another_furniture:recipes/dark_oak_flower_box": {
     "criteria": {
-      "has_diorite_or_mossy_diorite_bricks": "2025-06-04 01:13:37 +0000"
+      "has_slab": "2025-06-04 00:26:19 +0000"
     },
     "done": true
+  },
+  "another_furniture:recipes/dark_oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-06-04 00:26:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2025-06-04 00:26:19 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black1": {
+    "criteria": {
+      "recipe_condition": "2025-06-04 00:32:13 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/black_stained_glass_slab": {
+    "criteria": {
+      "has_black_stained_glass": "2025-06-04 00:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-04 00:32:13 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black1": {
+    "criteria": {
+      "recipe_condition": "2025-06-04 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane3": {
+    "criteria": {
+      "recipe_condition": "2025-06-04 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-04 00:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-04 00:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-04 00:47:27 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_or_cobbled_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_cobbled_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_mossy_netherrack_bricks": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_or_polished_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_polished_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_or_netherrack_bricks_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_netherrack_bricks": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/netherrack_slab": {
+    "criteria": {
+      "has_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_or_polished_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_polished_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_or_polished_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_polished_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_mossy_netherrack_bricks": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_or_mossy_cobbled_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_mossy_cobbled_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_or_netherrack_bricks_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_netherrack_bricks": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_or_mossy_cobbled_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_mossy_cobbled_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_or_netherrack_bricks_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_netherrack_bricks": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_or_cobbled_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_cobbled_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_mossy_netherrack_bricks": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_or_mossy_cobbled_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_mossy_cobbled_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_or_cobbled_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_cobbled_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-06-04 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-04 00:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-04 00:52:20 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/soul_sand_slab": {
+    "criteria": {
+      "has_soul_sand": "2025-06-04 00:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-04 00:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-04 01:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-04 01:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-04 01:09:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_diorite_brick_stairs_from_diorite_or_mossy_diorite_bricks_stonecutting": {
+    "criteria": {
+      "has_diorite_or_mossy_diorite_bricks": "2025-06-04 01:13:37 +0000"
     },
     "done": true
   },
@@ -10091,12 +10331,6 @@
       "has_diorite_or_diorite_pavers": "2025-06-04 01:13:37 +0000"
     },
     "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-06-04 00:47:27 +0000"
-    },
-    "done": false
   },
   "stoneworks:recipes/building_blocks/cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
@@ -10113,24 +10347,6 @@
   "stoneworks:recipes/building_blocks/diorite_plates_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-04 01:13:37 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_black1": {
-    "criteria": {
-      "recipe_condition": "2025-06-04 00:32:13 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_mossy_netherrack_bricks": "2025-06-04 00:47:42 +0000"
     },
     "done": true
   },
@@ -10158,21 +10374,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-04 01:13:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-06-04 00:52:20 +0000"
     },
     "done": true
   },
@@ -10191,12 +10395,6 @@
   "stoneworks:recipes/building_blocks/diorite_shingle_wall_from_diorite_or_diorite_shingles_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_shingles": "2025-06-04 01:13:37 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/dark_oak_flower_box": {
-    "criteria": {
-      "has_slab": "2025-06-04 00:26:19 +0000"
     },
     "done": true
   },
@@ -10230,36 +10428,6 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-06-04 01:09:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-06-04 01:17:47 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-06-04 01:17:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-04 01:13:37 +0000"
@@ -10272,33 +10440,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/dark_oak_shutter": {
-    "criteria": {
-      "has_slab": "2025-06-04 00:26:19 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_or_polished_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_polished_netherrack": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-06-04 01:13:37 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_or_netherrack_bricks_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_netherrack_bricks": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/soul_sand_slab": {
-    "criteria": {
-      "has_soul_sand": "2025-06-04 00:52:20 +0000"
     },
     "done": true
   },
@@ -10326,39 +10470,9 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass_black1": {
-    "criteria": {
-      "recipe_condition": "2025-06-04 00:32:50 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/netherrack_slab": {
-    "criteria": {
-      "has_netherrack": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_slab_from_diorite_or_mossy_diorite_bricks_stonecutting": {
     "criteria": {
       "has_diorite_or_mossy_diorite_bricks": "2025-06-04 01:13:37 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_or_polished_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_polished_netherrack": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-06-04 01:09:12 +0000"
     },
     "done": true
   },
@@ -10368,45 +10482,15 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_or_polished_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_polished_netherrack": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-06-04 01:09:12 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/black_stained_glass_slab": {
-    "criteria": {
-      "has_black_stained_glass": "2025-06-04 00:32:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-06-04 01:13:37 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_mossy_netherrack_bricks": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_diorite_pillar_trim": "2025-06-04 01:13:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-06-04 00:47:23 +0000"
     },
     "done": true
   },
@@ -10440,18 +10524,6 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-06-04 01:44:37 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_black_pane3": {
-    "criteria": {
-      "recipe_condition": "2025-06-04 00:32:50 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
     "criteria": {
       "has_minecraft:diorite": "2025-06-04 01:13:37 +0000"
@@ -10461,12 +10533,6 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-06-04 01:13:37 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_or_mossy_cobbled_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_mossy_cobbled_netherrack": "2025-06-04 00:47:42 +0000"
     },
     "done": true
   },
@@ -10494,12 +10560,6 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_or_netherrack_bricks_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_netherrack_bricks": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/diorite_tile_stairs_from_diorite_or_diorite_tiles_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_tiles": "2025-06-04 01:13:37 +0000"
@@ -10518,12 +10578,6 @@
     },
     "done": true
   },
-  "another_furniture:recipes/dark_oak_bench": {
-    "criteria": {
-      "has_slab": "2025-06-04 00:26:19 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/diorite_plate_wall_from_diorite_or_diorite_plates_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_plates": "2025-06-04 01:13:37 +0000"
@@ -10533,12 +10587,6 @@
   "stoneworks:recipes/building_blocks/diorite_tile_slab_from_diorite_or_diorite_tiles_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_tiles": "2025-06-04 01:13:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-06-04 00:47:23 +0000"
     },
     "done": true
   },
@@ -10560,27 +10608,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_or_mossy_cobbled_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_mossy_cobbled_netherrack": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/diorite_shingles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-04 01:13:37 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_or_netherrack_bricks_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_netherrack_bricks": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-06-04 00:52:20 +0000"
     },
     "done": true
   },
@@ -10590,21 +10620,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_or_cobbled_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_cobbled_netherrack": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cracked_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-04 01:13:37 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_mossy_netherrack_bricks": "2025-06-04 00:47:42 +0000"
     },
     "done": true
   },
@@ -10614,27 +10632,9 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-06-04 00:51:39 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/balustrade_diorite_bridge": {
     "criteria": {
       "has_planks": "2025-06-04 01:13:37 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_or_mossy_cobbled_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_mossy_cobbled_netherrack": "2025-06-04 00:47:42 +0000"
     },
     "done": true
   },
@@ -10644,21 +10644,21 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_or_cobbled_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_cobbled_netherrack": "2025-06-04 00:47:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-06-04 00:32:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-06-04 01:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-04 01:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-04 01:17:47 +0000"
     },
     "done": true
   },
@@ -10668,9 +10668,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_netherrack": "2025-06-04 00:47:42 +0000"
+      "enchanted_item": "2025-06-04 01:44:37 +0000"
     },
     "done": true
   },
