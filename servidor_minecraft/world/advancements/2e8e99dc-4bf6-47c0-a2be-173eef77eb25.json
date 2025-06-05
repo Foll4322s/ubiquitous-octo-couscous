@@ -10686,5 +10686,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake_smithing": {
+    "criteria": {
+      "has_cake": "2025-06-05 00:59:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
