@@ -3219,3 +3219,8 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [00:36:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
 [00:36:18] [Server thread/INFO]: Receiving client config
 [00:36:20] [Server thread/WARN]: UUID of added entity already exists: class_4466['Bee'/224, l='ServerLevel[world]', x=-1047.92, y=63.07, z=-704.07]
+[00:49:36] [Server thread/INFO]: Luengou teleported to -1189.5 72.0 -452.5 minecraft:overworld
+[00:50:14] [Server thread/INFO]: Luengou teleported to -1189.5 72.0 -452.5 minecraft:overworld
+[00:50:16] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
+[00:51:37] [Server thread/INFO]: Luengou teleported to 260.5 -21.0 -391.5 minecraft:overworld
+[00:53:15] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
