@@ -3226,3 +3226,6 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [21:02:43] [Server thread/INFO]: Receiving client config
 [21:08:09] [Server thread/INFO]: vichoclo777 teleported to -1119.5 62.0 -543.5 minecraft:overworld
 [21:09:48] [Server thread/INFO]: vichoclo777 teleported to -1137.5 77.0 -287.5 minecraft:overworld
+[21:32:27] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
+[21:35:06] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
+[21:38:38] [Server thread/INFO]: Named entity class_3989['Camilla'/16461, l='ServerLevel[world]', x=-1097.58, y=63.00, z=-637.30] died: Camilla was slain by Luengou
