@@ -6900,6 +6900,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-06-06 17:10:09 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-06 16:46:48 +0000"
