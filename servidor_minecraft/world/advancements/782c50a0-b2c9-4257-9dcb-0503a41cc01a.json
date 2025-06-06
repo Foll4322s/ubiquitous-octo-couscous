@@ -6558,5 +6558,29 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-06 16:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-06 16:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-06 16:34:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake_smithing": {
+    "criteria": {
+      "has_cake": "2025-06-06 16:36:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
