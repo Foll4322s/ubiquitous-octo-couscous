@@ -11160,6 +11160,78 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-06 15:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-06 15:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-06 15:35:39 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-06 15:36:06 +0000"
@@ -11187,12 +11259,6 @@
   "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_or_andesite_plates_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_plates": "2025-06-06 15:36:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
-    "criteria": {
-      "has_minecraft:copper_ingot": "2025-06-06 15:34:18 +0000"
     },
     "done": true
   },
@@ -11268,27 +11334,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 15:36:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
     },
     "done": true
   },
@@ -11322,12 +11370,6 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
-    "criteria": {
-      "has_crying_obsidian": "2025-06-06 15:35:39 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/andesite_pillar_trim": {
     "criteria": {
       "has_andesite_pillar_trim": "2025-06-06 15:36:06 +0000"
@@ -11343,12 +11385,6 @@
   "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 15:36:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-06-06 15:35:39 +0000"
     },
     "done": true
   },
@@ -11376,12 +11412,6 @@
     },
     "done": true
   },
-  "mcwlights:recipes/copper_stuff": {
-    "criteria": {
-      "has_wood": "2025-06-06 15:34:18 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_tile_stairs_from_andesite_or_andesite_tiles_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_tiles": "2025-06-06 15:36:06 +0000"
@@ -11397,12 +11427,6 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 15:36:06 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/chiseled_deepslate_slab": {
-    "criteria": {
-      "has_chiseled_deepslate": "2025-06-06 16:45:25 +0000"
     },
     "done": true
   },
@@ -11448,21 +11472,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/copper_trapdoor": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 15:36:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
-    "criteria": {
-      "has_minecraft:copper_ingot": "2025-06-06 15:34:18 +0000"
     },
     "done": true
   },
@@ -11493,18 +11505,6 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 15:36:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-06-06 15:35:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/copper_door": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
     },
     "done": true
   },
@@ -11544,12 +11544,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
-    "criteria": {
-      "has_minecraft:copper_ingot": "2025-06-06 15:34:18 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_or_andesite_pavers_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_pavers": "2025-06-06 15:36:06 +0000"
@@ -11565,6 +11559,12 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_wall_from_andesite_or_mossy_andesite_bricks_stonecutting": {
     "criteria": {
       "has_andesite_or_mossy_andesite_bricks": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/chiseled_deepslate_slab": {
+    "criteria": {
+      "has_chiseled_deepslate": "2025-06-06 16:45:25 +0000"
     },
     "done": true
   },
