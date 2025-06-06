@@ -10698,27 +10698,9 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/overworld_essence_epic": {
-    "criteria": {
-      "has_rare_essence": "2025-06-06 15:04:22 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-06 14:47:23 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_trident": {
-    "criteria": {
-      "has_epic_essence": "2025-06-06 15:22:10 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/gunpowder": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -10752,27 +10734,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_helmet": "2025-06-06 15:20:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-06 14:47:23 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_ender_pearl": {
-    "criteria": {
-      "has_rare_essence": "2025-06-06 15:04:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-06-06 14:59:53 +0000"
     },
     "done": true
   },
@@ -10782,21 +10746,9 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_prismarine_shard": {
-    "criteria": {
-      "has_uncommon_essence": "2025-06-06 15:02:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-06-06 14:47:23 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/phantom_membrane": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -10806,33 +10758,9 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/bone": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/string": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_slime_ball": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_or_stone_tiles_stonecutting": {
     "criteria": {
       "has_stone_or_stone_tiles": "2025-06-06 14:47:23 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/rotten_flesh": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -10854,27 +10782,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/horse_smithing": {
-    "criteria": {
-      "has_horse": "2025-06-06 15:08:23 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-06-06 14:47:23 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/prismarine_crystals": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-06-06 14:59:53 +0000"
     },
     "done": true
   },
@@ -10884,21 +10794,9 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_gunpowder": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_or_stone_tiles_stonecutting": {
     "criteria": {
       "has_stone_or_stone_tiles": "2025-06-06 14:47:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-06-06 14:51:45 +0000"
     },
     "done": true
   },
@@ -10908,45 +10806,15 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_string": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2025-06-06 14:47:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_the_recipe": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/overworld_essence_uncommon": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-06-06 14:47:23 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/totem_of_undying": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -10968,33 +10836,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2025-06-06 15:20:21 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_phantom_membrane": {
-    "criteria": {
-      "has_rare_essence": "2025-06-06 15:04:22 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_or_stone_shingles_stonecutting": {
     "criteria": {
       "has_stone_or_stone_shingles": "2025-06-06 14:47:23 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_rotten_flesh": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_bone": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -11022,18 +10866,6 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_totem_of_undying": {
-    "criteria": {
-      "has_epic_essence": "2025-06-06 15:22:10 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/trident": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-06 14:47:23 +0000"
@@ -11052,12 +10884,6 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/spider_eye": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-06-06 14:47:23 +0000"
@@ -11070,21 +10896,9 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_spider_eye": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/witch_trophy": {
     "criteria": {
       "has_witch_trophy": "2025-06-06 14:47:23 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/prismarine_shard": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -11106,12 +10920,6 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/ender_pearl": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 15:00:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-06 14:47:23 +0000"
@@ -11130,12 +10938,6 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_prismarine_crystals": {
-    "criteria": {
-      "has_uncommon_essence": "2025-06-06 15:02:59 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2025-06-06 14:47:23 +0000"
@@ -11148,15 +10950,615 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_or_stone_tiles_stonecutting": {
+    "criteria": {
+      "has_stone_or_stone_tiles": "2025-06-06 14:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-06-06 14:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-06 14:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-06 14:59:53 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/gunpowder": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/phantom_membrane": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/bone": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/string": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_slime_ball": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/rotten_flesh": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/prismarine_crystals": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_gunpowder": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_string": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/overworld_essence_uncommon": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/totem_of_undying": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_rotten_flesh": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_bone": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/trident": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/spider_eye": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_spider_eye": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/prismarine_shard": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/ender_pearl": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_prismarine_shard": {
+    "criteria": {
+      "has_uncommon_essence": "2025-06-06 15:02:59 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_prismarine_crystals": {
+    "criteria": {
+      "has_uncommon_essence": "2025-06-06 15:02:59 +0000"
+    },
+    "done": true
+  },
   "mob_drops_recipes_overworld:recipes/misc/overworld_essence_rare": {
     "criteria": {
       "has_uncommon_essence": "2025-06-06 15:02:59 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_or_stone_tiles_stonecutting": {
+  "mob_drops_recipes_overworld:recipes/misc/overworld_essence_epic": {
     "criteria": {
-      "has_stone_or_stone_tiles": "2025-06-06 14:47:23 +0000"
+      "has_rare_essence": "2025-06-06 15:04:22 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_ender_pearl": {
+    "criteria": {
+      "has_rare_essence": "2025-06-06 15:04:22 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_phantom_membrane": {
+    "criteria": {
+      "has_rare_essence": "2025-06-06 15:04:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2025-06-06 15:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-06-06 15:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-06-06 15:20:21 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_trident": {
+    "criteria": {
+      "has_epic_essence": "2025-06-06 15:22:10 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_totem_of_undying": {
+    "criteria": {
+      "has_epic_essence": "2025-06-06 15:22:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_or_cobbled_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite_or_cobbled_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_slab_from_andesite_or_mossy_cobbled_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite_or_mossy_cobbled_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_or_andesite_plates_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_plates": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_slab_from_andesite_or_andesite_pavers_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_pavers": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_or_mossy_cobbled_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite_or_mossy_cobbled_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_or_cobbled_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite_or_cobbled_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_or_andesite_bricks_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_bricks": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_pavers_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_or_andesite_bricks_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_bricks": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_slab_from_andesite_or_andesite_tiles_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_tiles": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_or_andesite_plates_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_plates": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-06 15:35:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-06 15:35:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_wall_from_andesite_or_andesite_plates_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_plates": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_or_andesite_pavers_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_pavers": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_or_andesite_shingles_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_shingles": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_stairs_from_andesite_or_andesite_tiles_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_tiles": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_or_andesite_bricks_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_bricks": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_stairs_from_andesite_or_andesite_shingles_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_shingles": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_or_mossy_cobbled_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite_or_mossy_cobbled_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_stairs_from_andesite_or_cobbled_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite_or_cobbled_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_or_andesite_tiles_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_tiles": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/andesite": {
+    "criteria": {
+      "has_wood": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_minecraft:andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_slab_from_andesite_or_mossy_andesite_bricks_stonecutting": {
+    "criteria": {
+      "has_andesite_or_mossy_andesite_bricks": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-06 15:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_or_andesite_shingles_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_shingles": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_or_mossy_andesite_bricks_stonecutting": {
+    "criteria": {
+      "has_andesite_or_mossy_andesite_bricks": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plates_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-06 15:34:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_or_andesite_pavers_stonecutting": {
+    "criteria": {
+      "has_andesite_or_andesite_pavers": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-06 15:36:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_wall_from_andesite_or_mossy_andesite_bricks_stonecutting": {
+    "criteria": {
+      "has_andesite_or_mossy_andesite_bricks": "2025-06-06 15:36:06 +0000"
     },
     "done": true
   },
