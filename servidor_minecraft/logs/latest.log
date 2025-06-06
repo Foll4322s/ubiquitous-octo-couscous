@@ -3231,3 +3231,11 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [15:35:27] [Server thread/INFO]: Luengou teleported to -1595.0 75.0 -396.0 minecraft:overworld
 [15:35:39] [Server thread/INFO]: Luengou has made the advancement [Who is Cutting Onions?]
 [15:35:42] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
+[16:16:16] [User Authenticator #3/INFO]: UUID of player vichoclo777 is 782c50a0-b2c9-4257-9dcb-0503a41cc01a
+[16:16:21] [Server thread/INFO]: vichoclo777[/127.58.194.206:52771] logged in with entity id 37298 at (-1304.5993205579848, 64.0, -214.20254622233122)
+[16:16:21] [Server thread/INFO]: Sending server config values to client
+[16:16:21] [Server thread/INFO]: Loading config from file...
+[16:16:21] [Server thread/INFO]: vichoclo777 joined the game
+[16:16:22] [Server thread/INFO]: Receiving client config
+[16:16:23] [Server thread/WARN]: UUID of added entity already exists: class_1428['Chicken'/37487, l='ServerLevel[world]', x=-1289.21, y=64.00, z=-79.86]
+[16:16:23] [Server thread/WARN]: UUID of added entity already exists: class_1428['Chicken'/37490, l='ServerLevel[world]', x=-1307.91, y=63.00, z=-79.84]
