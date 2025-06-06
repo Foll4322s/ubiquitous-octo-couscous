@@ -3272,3 +3272,7 @@ java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnac
 [22:26:35] [Server thread/INFO]: Luengou teleported to 260.5 -21.0 -391.5 minecraft:overworld
 [22:27:16] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
 [22:29:18] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
+[22:31:36] [Server thread/INFO]: Luengou lost connection: Disconnected
+[22:31:36] [Server thread/INFO]: Luengou left the game
+[22:36:40] [Server thread/INFO]: vichoclo777 lost connection: Disconnected
+[22:36:40] [Server thread/INFO]: vichoclo777 left the game
