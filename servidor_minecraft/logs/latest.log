@@ -3209,3 +3209,5 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [13:54:32] [Server thread/INFO]: Luengou joined the game
 [13:54:33] [Server thread/INFO]: Receiving client config
 [13:54:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[14:02:02] [Server thread/INFO]: Luengou teleported to 260.5 -21.0 -391.5 minecraft:overworld
+[14:10:23] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
