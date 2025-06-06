@@ -10698,9 +10698,21 @@
     },
     "done": true
   },
+  "mob_drops_recipes_overworld:recipes/misc/overworld_essence_epic": {
+    "criteria": {
+      "has_rare_essence": "2025-06-06 15:04:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-06 14:47:23 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/gunpowder": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -10740,9 +10752,27 @@
     },
     "done": true
   },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_ender_pearl": {
+    "criteria": {
+      "has_rare_essence": "2025-06-06 15:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-06 14:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-06-06 14:47:23 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_prismarine_shard": {
+    "criteria": {
+      "has_uncommon_essence": "2025-06-06 15:02:59 +0000"
     },
     "done": true
   },
@@ -10752,15 +10782,45 @@
     },
     "done": true
   },
+  "mob_drops_recipes_overworld:recipes/misc/phantom_membrane": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_or_stone_plates_stonecutting": {
     "criteria": {
       "has_stone_or_stone_plates": "2025-06-06 14:47:23 +0000"
     },
     "done": true
   },
+  "mob_drops_recipes_overworld:recipes/misc/bone": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/string": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_slime_ball": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_or_stone_tiles_stonecutting": {
     "criteria": {
       "has_stone_or_stone_tiles": "2025-06-06 14:47:23 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/rotten_flesh": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -10788,9 +10848,27 @@
     },
     "done": true
   },
+  "mob_drops_recipes_overworld:recipes/misc/prismarine_crystals": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-06 14:59:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_or_stone_shingles_stonecutting": {
     "criteria": {
       "has_stone_or_stone_shingles": "2025-06-06 14:47:23 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_gunpowder": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -10812,15 +10890,45 @@
     },
     "done": true
   },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_string": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2025-06-06 14:47:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/overworld_essence_uncommon": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-06-06 14:47:23 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/totem_of_undying": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -10842,9 +10950,27 @@
     },
     "done": true
   },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_phantom_membrane": {
+    "criteria": {
+      "has_rare_essence": "2025-06-06 15:04:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_or_stone_shingles_stonecutting": {
     "criteria": {
       "has_stone_or_stone_shingles": "2025-06-06 14:47:23 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_rotten_flesh": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_bone": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -10872,6 +10998,12 @@
     },
     "done": true
   },
+  "mob_drops_recipes_overworld:recipes/misc/trident": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-06 14:47:23 +0000"
@@ -10890,6 +11022,12 @@
     },
     "done": true
   },
+  "mob_drops_recipes_overworld:recipes/misc/spider_eye": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-06-06 14:47:23 +0000"
@@ -10902,9 +11040,21 @@
     },
     "done": true
   },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_spider_eye": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/witch_trophy": {
     "criteria": {
       "has_witch_trophy": "2025-06-06 14:47:23 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/prismarine_shard": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
     },
     "done": true
   },
@@ -10926,6 +11076,12 @@
     },
     "done": true
   },
+  "mob_drops_recipes_overworld:recipes/misc/ender_pearl": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 15:00:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-06 14:47:23 +0000"
@@ -10944,6 +11100,12 @@
     },
     "done": true
   },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_prismarine_crystals": {
+    "criteria": {
+      "has_uncommon_essence": "2025-06-06 15:02:59 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2025-06-06 14:47:23 +0000"
@@ -10953,6 +11115,12 @@
   "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_or_stone_shingles_stonecutting": {
     "criteria": {
       "has_stone_or_stone_shingles": "2025-06-06 14:47:23 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/overworld_essence_rare": {
+    "criteria": {
+      "has_uncommon_essence": "2025-06-06 15:02:59 +0000"
     },
     "done": true
   },
