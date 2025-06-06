@@ -11400,6 +11400,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/chiseled_deepslate_slab": {
+    "criteria": {
+      "has_chiseled_deepslate": "2025-06-06 16:45:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_or_andesite_bricks_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_bricks": "2025-06-06 15:36:06 +0000"
