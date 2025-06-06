@@ -10710,6 +10710,12 @@
     },
     "done": true
   },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_trident": {
+    "criteria": {
+      "has_epic_essence": "2025-06-06 15:22:10 +0000"
+    },
+    "done": true
+  },
   "mob_drops_recipes_overworld:recipes/misc/gunpowder": {
     "criteria": {
       "has_common_essence": "2025-06-06 15:00:45 +0000"
@@ -10743,6 +10749,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-06-06 14:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-06-06 15:20:21 +0000"
     },
     "done": true
   },
@@ -10956,6 +10968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-06-06 15:20:21 +0000"
+    },
+    "done": true
+  },
   "mob_drops_recipes_overworld:recipes/misc/essence_into_phantom_membrane": {
     "criteria": {
       "has_rare_essence": "2025-06-06 15:04:22 +0000"
@@ -11001,6 +11019,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-06-06 14:47:23 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_totem_of_undying": {
+    "criteria": {
+      "has_epic_essence": "2025-06-06 15:22:10 +0000"
     },
     "done": true
   },

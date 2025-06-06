@@ -3218,3 +3218,11 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [14:20:10] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
 [14:49:09] [Server thread/INFO]: Luengou teleported to 260.5 -21.0 -391.5 minecraft:overworld
 [14:54:20] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
+[15:30:19] [Server thread/INFO]: Luengou lost connection: Disconnected
+[15:30:19] [Server thread/INFO]: Luengou left the game
+[15:31:44] [User Authenticator #2/INFO]: UUID of player Luengou is 2e8e99dc-4bf6-47c0-a2be-173eef77eb25
+[15:31:51] [Server thread/INFO]: Luengou[/127.132.58.206:43491] logged in with entity id 23664 at (-1108.146026349282, 63.0, -633.0049694245007)
+[15:31:51] [Server thread/INFO]: Sending server config values to client
+[15:31:51] [Server thread/INFO]: Loading config from file...
+[15:31:51] [Server thread/INFO]: Luengou joined the game
+[15:31:52] [Server thread/INFO]: Receiving client config
