@@ -3239,3 +3239,9 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [16:16:22] [Server thread/INFO]: Receiving client config
 [16:16:23] [Server thread/WARN]: UUID of added entity already exists: class_1428['Chicken'/37487, l='ServerLevel[world]', x=-1289.21, y=64.00, z=-79.86]
 [16:16:23] [Server thread/WARN]: UUID of added entity already exists: class_1428['Chicken'/37490, l='ServerLevel[world]', x=-1307.91, y=63.00, z=-79.84]
+[16:25:30] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
+[16:28:08] [Server thread/INFO]: Luengou teleported to -1189.5 72.0 -452.5 minecraft:overworld
+[16:28:16] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
+[16:28:44] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
+[16:31:06] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
+[16:33:15] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
