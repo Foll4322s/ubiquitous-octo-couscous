@@ -10842,6 +10842,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2025-06-06 15:08:23 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-06-06 14:47:23 +0000"
