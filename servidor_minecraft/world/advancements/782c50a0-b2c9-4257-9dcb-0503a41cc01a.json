@@ -6558,6 +6558,30 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-06 16:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-06 16:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-06 16:34:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake_smithing": {
+    "criteria": {
+      "has_cake": "2025-06-06 16:36:13 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-06 16:46:48 +0000"
@@ -6567,12 +6591,6 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_or_cobbled_andesite_stonecutting": {
     "criteria": {
       "has_andesite_or_cobbled_andesite": "2025-06-06 16:46:48 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/gunpowder": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
     },
     "done": true
   },
@@ -6672,36 +6690,6 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/phantom_membrane": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/bone": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/string": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_slime_ball": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/rotten_flesh": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2025-06-06 16:46:48 +0000"
@@ -6726,27 +6714,9 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/prismarine_crystals": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_gunpowder": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_or_andesite_plates_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_plates": "2025-06-06 16:46:48 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/crying_obsidian_slab": {
-    "criteria": {
-      "has_crying_obsidian": "2025-06-06 16:34:16 +0000"
     },
     "done": true
   },
@@ -6762,45 +6732,9 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_string": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_the_recipe": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 16:46:48 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/overworld_essence_uncommon": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/totem_of_undying": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-06-06 16:34:16 +0000"
     },
     "done": true
   },
@@ -6825,18 +6759,6 @@
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_or_andesite_shingles_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_shingles": "2025-06-06 16:46:48 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_rotten_flesh": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_bone": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
     },
     "done": true
   },
@@ -6906,12 +6828,6 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/trident": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
   "mcwpaths:recipes/andesite": {
     "criteria": {
       "has_wood": "2025-06-06 16:46:48 +0000"
@@ -6942,39 +6858,9 @@
     },
     "done": true
   },
-  "mob_drops_recipes_overworld:recipes/misc/spider_eye": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-06-06 16:34:16 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/essence_into_spider_eye": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_or_andesite_shingles_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_shingles": "2025-06-06 16:46:48 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/prismarine_shard": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
-    },
-    "done": true
-  },
-  "mob_drops_recipes_overworld:recipes/misc/ender_pearl": {
-    "criteria": {
-      "has_common_essence": "2025-06-06 17:17:01 +0000"
     },
     "done": true
   },
@@ -6987,12 +6873,6 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_or_mossy_andesite_bricks_stonecutting": {
     "criteria": {
       "has_andesite_or_mossy_andesite_bricks": "2025-06-06 16:46:48 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cake_smithing": {
-    "criteria": {
-      "has_cake": "2025-06-06 16:36:13 +0000"
     },
     "done": true
   },
@@ -7020,12 +6900,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
-    "criteria": {
-      "has_lavender": "2025-06-06 17:10:09 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-06 16:46:48 +0000"
@@ -7035,6 +6909,132 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_wall_from_andesite_or_mossy_andesite_bricks_stonecutting": {
     "criteria": {
       "has_andesite_or_mossy_andesite_bricks": "2025-06-06 16:46:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-06-06 17:10:09 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/gunpowder": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/phantom_membrane": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/bone": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/string": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_slime_ball": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/rotten_flesh": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/prismarine_crystals": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_gunpowder": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_string": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/overworld_essence_uncommon": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/totem_of_undying": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_rotten_flesh": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_bone": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/trident": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/spider_eye": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/essence_into_spider_eye": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/prismarine_shard": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "mob_drops_recipes_overworld:recipes/misc/ender_pearl": {
+    "criteria": {
+      "has_common_essence": "2025-06-06 17:17:01 +0000"
     },
     "done": true
   },

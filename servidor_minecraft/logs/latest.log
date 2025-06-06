@@ -3218,3 +3218,11 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [20:53:19] [Server thread/INFO]: Receiving client config
 [20:53:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2570ms or 51 ticks behind
 [20:57:19] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
+[21:02:38] [User Authenticator #2/INFO]: UUID of player vichoclo777 is 782c50a0-b2c9-4257-9dcb-0503a41cc01a
+[21:02:42] [Server thread/INFO]: vichoclo777[/127.58.194.206:52095] logged in with entity id 2454 at (-1107.3592976854402, 23.0, -622.1926029435803)
+[21:02:42] [Server thread/INFO]: Sending server config values to client
+[21:02:42] [Server thread/INFO]: Loading config from file...
+[21:02:42] [Server thread/INFO]: vichoclo777 joined the game
+[21:02:43] [Server thread/INFO]: Receiving client config
+[21:08:09] [Server thread/INFO]: vichoclo777 teleported to -1119.5 62.0 -543.5 minecraft:overworld
+[21:09:48] [Server thread/INFO]: vichoclo777 teleported to -1137.5 77.0 -287.5 minecraft:overworld
