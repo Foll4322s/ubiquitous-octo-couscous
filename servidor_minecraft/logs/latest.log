@@ -3219,3 +3219,12 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [03:21:52] [Server thread/INFO]: Luengou teleported to -1189.5 72.0 -452.5 minecraft:overworld
 [03:22:16] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
 [03:22:22] [Server thread/INFO]: Luengou teleported to -1189.5 72.0 -452.5 minecraft:overworld
+[03:37:01] [Server thread/INFO]: Luengou teleported to 260.5 -21.0 -391.5 minecraft:overworld
+[03:41:22] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
+[03:42:16] [User Authenticator #2/INFO]: UUID of player vichoclo777 is 782c50a0-b2c9-4257-9dcb-0503a41cc01a
+[03:42:20] [Server thread/INFO]: vichoclo777[/127.9.70.145:37003] logged in with entity id 8618 at (-1104.0909710360836, 62.0, -546.3745568837493)
+[03:42:20] [Server thread/INFO]: Sending server config values to client
+[03:42:20] [Server thread/INFO]: Loading config from file...
+[03:42:20] [Server thread/INFO]: vichoclo777 joined the game
+[03:42:21] [Server thread/INFO]: Receiving client config
+[03:43:46] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
