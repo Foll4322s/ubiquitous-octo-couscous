@@ -11568,9 +11568,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid_smithing": {
+    "criteria": {
+      "has_squid": "2025-06-06 21:25:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/umbran_planks": {
     "criteria": {
       "has_logs": "2025-06-06 21:39:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnituresbop:recipes/umbran": {
+    "criteria": {
+      "has_wood": "2025-06-06 21:39:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2025-06-06 21:39:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_umbran_wood": {
+    "criteria": {
+      "has_log": "2025-06-06 21:41:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-06 21:41:19 +0000"
     },
     "done": true
   },
@@ -11589,18 +11619,6 @@
   "biomesoplenty:recipes/redstone/umbran_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-06 21:42:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/stripped_umbran_wood": {
-    "criteria": {
-      "has_log": "2025-06-06 21:41:19 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnituresbop:recipes/umbran": {
-    "criteria": {
-      "has_wood": "2025-06-06 21:39:59 +0000"
     },
     "done": true
   },
@@ -11628,18 +11646,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/umbran_wood": {
-    "criteria": {
-      "has_log": "2025-06-06 21:39:59 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/squid_smithing": {
-    "criteria": {
-      "has_squid": "2025-06-06 21:25:13 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/umbran_sign": {
     "criteria": {
       "has_planks": "2025-06-06 21:42:53 +0000"
@@ -11649,12 +11655,6 @@
   "biomesoplenty:recipes/redstone/umbran_door": {
     "criteria": {
       "has_planks": "2025-06-06 21:42:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/umbran_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-06 21:41:19 +0000"
     },
     "done": true
   },
