@@ -3372,3 +3372,26 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [02:51:41] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
 [02:54:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [03:09:40] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
+[03:12:59] [Server thread/WARN]: Luengou moved wrongly!
+[03:18:48] [Server thread/ERROR]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnaceBlockEntityAccess.getCookingProgress()" because "access" is null
+[03:18:48] [Server thread/ERROR]: See JadeErrorOutput.txt for more information
+[03:18:48] [Server thread/ERROR]: 
+java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnaceBlockEntityAccess.getCookingProgress()" because "access" is null
+	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:44) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
+	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:21) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
+	at knot/snownee.jade.api.StreamServerDataProvider.appendServerData(StreamServerDataProvider.java:16) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
+	at knot/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.1-Fabric-15.8.3.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]

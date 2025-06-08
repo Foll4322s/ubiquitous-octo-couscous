@@ -11828,6 +11828,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/melon_smithing": {
+    "criteria": {
+      "has_melon": "2025-06-08 03:11:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_wall_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone_or_mossy_cobbled_blackstone": "2025-06-08 01:43:50 +0000"
@@ -11867,6 +11873,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-08 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2025-06-08 03:11:50 +0000"
     },
     "done": true
   },
@@ -12038,6 +12050,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/lapis_smithing": {
+    "criteria": {
+      "has_lapis": "2025-06-08 03:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-06-08 01:42:39 +0000"
@@ -12131,6 +12149,12 @@
   "travelersbackpack:recipes/misc/skeleton_smithing": {
     "criteria": {
       "has_skeleton": "2025-06-08 01:08:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee_smithing": {
+    "criteria": {
+      "has_bee": "2025-06-08 03:11:52 +0000"
     },
     "done": true
   },
