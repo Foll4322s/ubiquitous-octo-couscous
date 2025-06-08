@@ -1967,6 +1967,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-27 21:29:11 +0000",
+      "minecraft:magma_cube": "2025-06-08 01:47:48 +0000",
       "minecraft:spider": "2025-05-27 21:42:29 +0000",
       "minecraft:zombie": "2025-05-26 22:56:52 +0000",
       "minecraft:creeper": "2025-06-03 00:49:45 +0000",
@@ -7443,6 +7444,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-06-08 01:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-06-08 01:42:01 +0000"
@@ -7452,6 +7459,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-08 01:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-08 01:47:03 +0000"
     },
     "done": true
   },
