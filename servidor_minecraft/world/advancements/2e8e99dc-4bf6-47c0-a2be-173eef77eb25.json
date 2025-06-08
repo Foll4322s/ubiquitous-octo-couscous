@@ -11658,5 +11658,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton_smithing": {
+    "criteria": {
+      "has_skeleton": "2025-06-08 01:08:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
