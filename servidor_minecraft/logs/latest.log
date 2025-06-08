@@ -3356,3 +3356,17 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [02:39:16] [Server thread/INFO]: vichoclo777 teleported to -1223.5 67.0 -298.5 minecraft:overworld
 [02:40:52] [Server thread/INFO]: [Luengou: Successfully filled 2865 block(s)]
 [02:41:05] [Server thread/INFO]: [Luengou: Successfully filled 856 block(s)]
+[02:42:07] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
+[02:45:15] [Server thread/INFO]: Luengou teleported to 215.0 68.0 -528.0 minecraft:overworld
+[02:45:55] [Server thread/INFO]: vichoclo777 lost connection: Timed out
+[02:45:55] [Server thread/INFO]: vichoclo777 left the game
+[02:45:55] [Server thread/WARN]: handleDisconnection() called twice
+[02:46:28] [User Authenticator #3/INFO]: UUID of player vichoclo777 is 782c50a0-b2c9-4257-9dcb-0503a41cc01a
+[02:46:32] [Server thread/INFO]: vichoclo777[/127.58.194.206:54649] logged in with entity id 46711 at (-1194.5, 67.0, -297.5)
+[02:46:32] [Server thread/INFO]: Sending server config values to client
+[02:46:32] [Server thread/INFO]: Loading config from file...
+[02:46:32] [Server thread/INFO]: vichoclo777 joined the game
+[02:46:32] [Server thread/INFO]: Receiving client config
+[02:49:19] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
+[02:51:18] [Server thread/INFO]: Luengou teleported to -1082.0 64.0 -373.0 minecraft:overworld
+[02:51:41] [Server thread/INFO]: Luengou teleported to -1105.5 63.0 -632.5 minecraft:overworld
