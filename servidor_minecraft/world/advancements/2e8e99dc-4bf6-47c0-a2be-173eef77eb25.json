@@ -11960,6 +11960,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
+    "criteria": {
+      "has_slime_block": "2025-06-08 02:21:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_or_cobbled_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone_or_cobbled_blackstone": "2025-06-08 01:43:50 +0000"
@@ -12095,6 +12101,12 @@
   "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_or_blackstone_tiles_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_tiles": "2025-06-08 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/slime_block_slab": {
+    "criteria": {
+      "has_slime_block": "2025-06-08 02:21:13 +0000"
     },
     "done": true
   },
