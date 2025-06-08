@@ -3395,3 +3395,6 @@ java.lang.NullPointerException: Cannot invoke "snownee.jade.mixin.AbstractFurnac
 	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:31:36] [Server thread/INFO]: [Luengou: Teleported Luengou to vichoclo777]
+[03:32:27] [Server thread/INFO]: Villager class_1646['Kimbery'/66078, l='ServerLevel[world]', x=-976.01, y=65.00, z=-211.29] died, message: 'Kimbery burned to death'
+[03:32:27] [Server thread/INFO]: Named entity class_1646['Kimbery'/66078, l='ServerLevel[world]', x=-976.01, y=65.00, z=-211.29] died: Kimbery burned to death
