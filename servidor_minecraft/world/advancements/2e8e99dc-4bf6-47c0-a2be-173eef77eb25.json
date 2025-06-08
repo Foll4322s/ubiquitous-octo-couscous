@@ -5490,7 +5490,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-05-27 01:33:16 +0000"
+      "in_better_spider_dungeon": "2025-05-27 01:33:16 +0000",
+      "in_better_monster_room": "2025-06-08 02:19:50 +0000"
     },
     "done": false
   },
@@ -11677,6 +11678,12 @@
     },
     "done": true
   },
+  "permanentsponges:recipes/building_blocks/magmatic_sponge": {
+    "criteria": {
+      "has_magma_cream": "2025-06-08 02:07:54 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_or_blackstone_shingles_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_shingles": "2025-06-08 01:43:50 +0000"
@@ -11737,6 +11744,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-06-08 02:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-06-08 01:42:39 +0000"
@@ -11782,6 +11795,12 @@
   "stoneworks:recipes/building_blocks/blackstone_plate_wall_from_blackstone_or_blackstone_plates_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_plates": "2025-06-08 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-08 02:05:18 +0000"
     },
     "done": true
   },
@@ -11839,6 +11858,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-06-08 02:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-08 01:43:50 +0000"
@@ -11863,6 +11888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-08 02:05:18 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-08 01:43:50 +0000"
@@ -11875,9 +11906,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-06-08 02:05:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_or_blackstone_pavers_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_pavers": "2025-06-08 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-08 02:07:54 +0000"
     },
     "done": true
   },
@@ -11896,6 +11939,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-08 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-08 02:05:00 +0000"
     },
     "done": true
   },
@@ -11926,6 +11975,12 @@
   "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-08 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-08 02:05:18 +0000"
     },
     "done": true
   },
@@ -12070,6 +12125,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-08 01:43:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-06-08 02:07:54 +0000"
     },
     "done": true
   },

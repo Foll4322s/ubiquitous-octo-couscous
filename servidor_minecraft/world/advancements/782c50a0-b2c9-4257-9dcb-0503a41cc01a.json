@@ -461,6 +461,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-08 02:13:50 +0000",
       "apple": "2025-06-02 19:03:24 +0000",
       "bread": "2025-05-26 22:46:06 +0000",
       "golden_apple": "2025-06-02 19:43:28 +0000",
@@ -7438,6 +7439,12 @@
     },
     "done": true
   },
+  "permanentsponges:recipes/building_blocks/magmatic_sponge": {
+    "criteria": {
+      "has_magma_cream": "2025-06-08 02:02:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-08 01:43:09 +0000"
@@ -7447,6 +7454,42 @@
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
       "has_burning_blossom": "2025-06-08 01:50:36 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-06-08 02:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-06-08 02:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-08 02:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-08 02:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-08 02:02:54 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/gilded_blackstone_slab": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-06-08 02:07:34 +0000"
     },
     "done": true
   },
@@ -7462,9 +7505,39 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-06-08 02:19:57 +0000"
+    },
+    "done": false
+  },
+  "new_slab_variants:recipes/building_blocks/iron_block_slab": {
+    "criteria": {
+      "has_iron_block": "2025-06-08 02:01:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-06-08 02:02:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-06-08 01:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-08 02:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-08 02:02:53 +0000"
     },
     "done": true
   },
