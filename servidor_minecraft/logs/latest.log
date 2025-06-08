@@ -3231,3 +3231,47 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [01:37:13] [Server thread/INFO]: Luengou teleported to -1079.0 64.0 -359.0 minecraft:overworld
 [01:40:02] [Server thread/INFO]: Luengou teleported to -1109.0 64.0 -898.0 minecraft:overworld
 [01:40:30] [Server thread/INFO]: Luengou teleported to -1588.0 75.0 -393.0 minecraft:overworld
+[01:41:21] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
+[01:41:29] [Server thread/INFO]: No return portal found
+[01:41:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4703ms or 94 ticks behind
+[01:41:40] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:41:41] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:41:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:41:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:41:43] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:41:43] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:41:43] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:41:43] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:41:43] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:42:01] [Server thread/INFO]: No return portal found
+[01:42:01] [Server thread/INFO]: vichoclo777 has made the advancement [We Need to Go Deeper]
+[01:44:16] [Server thread/INFO]: [Luengou: Teleported vichoclo777 to Luengou]
+[01:46:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:46:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:46:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:46:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:46:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:46:25] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:46:44] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:46:44] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:46:53] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:46:53] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:46:53] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:47:03] [Server thread/INFO]: vichoclo777 has made the advancement [Those Were the Days]
+[01:47:44] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:48:46] [Server thread/INFO]: vichoclo777 tried to swim in lava
+[01:48:46] [Server thread/INFO]: Created new backpack backup file for vichoclo777 with unique ID travelersbackpack.cake_08.06.2025-01.48.46.dat
+[01:48:46] [Server thread/INFO]: [Luengou: Teleported vichoclo777 to Luengou]
+[01:49:04] [Server thread/INFO]: Luengou tried to swim in lava to escape Piglin Brute
+[01:49:04] [Server thread/INFO]: Created new backpack backup file for Luengou with unique ID travelersbackpack.diamond_08.06.2025-01.49.04.dat
+[01:49:08] [Server thread/INFO]: vichoclo777 teleported to -303.5 34.0 -205.5 minecraft:the_nether
+[01:49:09] [Server thread/INFO]: vichoclo777 tried to swim in lava to escape Piglin Brute
+[01:49:23] [Server thread/INFO]: Villager class_1646['Alexis'/22480, l='ServerLevel[world]', x=66.50, y=71.00, z=-52.28] died, message: 'Alexis was slain by Zombie'
+[01:49:23] [Server thread/INFO]: Named entity class_1646['Alexis'/22480, l='ServerLevel[world]', x=66.50, y=71.00, z=-52.28] died: Alexis was slain by Zombie
+[01:49:28] [Server thread/INFO]: Named entity class_1641['Alexis'/22636, l='ServerLevel[world]', x=66.84, y=72.00, z=-56.98] died: Alexis was slain by Iron Golem
+[01:49:39] [Server thread/INFO]: Luengou teleported to -1590.0 73.0 -401.0 minecraft:overworld
+[01:49:49] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
+[01:49:58] [Server thread/INFO]: No return portal found
+[01:49:59] [Server thread/INFO]: No return portal found
+[01:50:10] [Server thread/INFO]: Luengou teleported to -280.0 45.0 -196.0 minecraft:the_nether
+[01:50:16] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
